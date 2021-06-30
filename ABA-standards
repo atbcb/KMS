@@ -2566,7 +2566,7 @@
 <p>Raised character and braille designations shall be placed immediately to the left of the control button to which the designations apply.</p>
 <p>EXCEPTION:&nbsp; Where space on an existing car operating panel precludes tactile markings to the left of the controls, markings shall be placed as near to the control as possible.</p>
 <h6 id="aba-407_4_7_1_3">407.4.7.1.3 Symbols.</h6>
-<p>The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with tactile symbols as shown in Table 407.4.7.1.3.</p>
+<p>The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with tactile symbols as shown in Table <a href="#aba-407_4_7_1_3" class="navSectionLink">407.4.7.1.3</a>.</p>
 <table class="data usa-table"><caption>407.4.7.1.3 Elevator Control Button Identification</caption>
 <thead>
 <tr><th scope="col">Control Button</th><th>Tactile Symbol</th><th>Braille Message</th></tr>
@@ -2618,7 +2618,7 @@
 <p>Indicators shall be located above the car control panel or above the door.</p>
 <h6 id="aba-407_4_8_1_3">407.4.8.1.3 Floor Arrival.</h6>
 <p>As the car passes a floor and when a car stops at a floor served by the elevator, the corresponding character shall illuminate.</p>
-<p>EXCEPTION:&nbsp; Destination-oriented elevators shall not be required to comply with 407.4.8.1.3 provided that the visible indicators extinguish when the call has been answered.</p>
+<p>EXCEPTION:&nbsp; Destination-oriented elevators shall not be required to comply with <a href="#aba-407_4_8_1_3" class="navSectionLink">407.4.8.1.3</a> provided that the visible indicators extinguish when the call has been answered.</p>
 <h6 id="aba-407_4_8_1_4">407.4.8.1.4 Destination Indicator.</h6>
 <p>In destination-oriented elevators, a display shall be provided in the car with visible indicators to show car destinations.</p>
 <h5 id="aba-407_4_8_2">407.4.8.2 Audible Indicators</h5>
