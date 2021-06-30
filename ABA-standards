@@ -43,6 +43,7 @@
 <p>ANSI/BHMA A156.19-2002 American National Standard for Power Assist and Low Energy Power Operated Doors (see <a href="#aba-404_3" class="navSectionLink">404.3</a>, <a href="#aba-408_3_2_1" class="navSectionLink">408.3.2.1/a>, and <a href="#aba-409_3_1" class="navSectionLink">409.3.1/a>).</p>
 <div class="advisory">
 <p class="first">Advisory <a href="#aba-f105_2_1" class="navSectionLink">F105.2.1</a> ANSI/BHMA.&nbsp; ANSI/BHMA A156.10-1999 applies to power operated doors for pedestrian use which open automatically when approached by pedestrians. Included are provisions intended to reduce the chance of user injury or entrapment.</p>
+<p class="last">ANSI/BHMA A156.19-1997 and A156.19-2002 applies to power assist doors, low energy power operated doors or low energy power open doors for pedestrian use not provided for in ANSI/BHMA A<a href="#aba-156_10" class="navSectionLink">156.10/a> for Power Operated Pedestrian Doors.&nbsp; Included are provisions intended to reduce the chance of user injury or entrapment.</p>
 </div>
 <h4 id="aba-f105_2_2"><a href="#aba-f105_2_2" class="navSectionLink">F105.2.2</a> ASME</h4>
 <p>Copies of the referenced standards may be obtained from the American Society of Mechanical Engineers, Three Park Avenue, New York, New York 10016 (<a href="http://www.asme.org/" class=" usa-link--external" title="external link">http://www.asme.org</a>).</p>
@@ -2244,6 +2245,7 @@
 <p>Doors, gates, and side lights adjacent to doors or gates, containing one or more glazing panels that permit viewing through the panels shall have the bottom of at least one glazed panel located 43 inches (1090 mm) maximum above the finish floor.</p>
 <p>EXCEPTION:&nbsp; Vision lights with the lowest part more than 66 inches (1675 mm) from the finish floor or ground shall not be required to comply with <a href="#aba-404_2_11" class="navSectionLink">404.2.11/a>.</p>
 <h3 id="aba-404_3">404.3 Automatic and Power-Assisted Doors and Gates</h3>
+<p>Automatic doors and automatic gates shall comply with <a href="#aba-404_3" class="navSectionLink">404.3/a>.&nbsp; Full-powered automatic doors shall comply with ANSI/BHMA A<a href="#aba-156_10" class="navSectionLink">156.10/a> (incorporated by reference, see "Referenced Standards" in Chapter 1).&nbsp; Low-energy and power-assisted doors shall comply with ANSI/BHMA A156.19 (1997 or 2002 edition) (incorporated by reference, see "Referenced Standards" in Chapter 1).</p>
 <h4 id="aba-404_3_1">404.3.1 Clear Width</h4>
 <p>Doorways shall provide a clear opening of 32 inches (815 mm) minimum in power-on and power-off mode.&nbsp; The minimum clear width for automatic door systems in a doorway shall be based on the clear opening provided by all leaves in the open position.</p>
 <h4 id="aba-404_3_2">404.3.2 Maneuvering Clearance</h4>
