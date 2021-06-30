@@ -2,14 +2,14 @@
 <div class="chapter">
 <h1>Chapter 1: Application and Administration</h1>
 <div itemprop="articleBody">
-<h2 id="aba-f101">F101 Purpose</h2>
+<h2 id="aba-f101"><a href="#aba-f101" class="navSectionLink">F101</a> Purpose</h2>
 <p>This document contains scoping and technical requirements for accessibility to sites, facilities, buildings, and elements by individuals with disabilities.&nbsp; The requirements are to be applied during the design, construction, addition to, alteration, and lease of sites, facilities, buildings, and elements to the extent required by regulations issued by Federal agencies under the Architectural Barriers Act of 1968 (ABA).</p>
-<h2 id="aba-f102">F102 Dimensions for Adults and Children</h2>
+<h2 id="aba-f102"><a href="#aba-f102" class="navSectionLink">F102</a> Dimensions for Adults and Children</h2>
 <p>The technical requirements are based on adult dimensions and anthropometrics. In addition, this document includes technical requirements based on children's dimensions and anthropometrics for drinking fountains, water closets, toilet compartments, lavatories and sinks, dining surfaces, and work surfaces.</p>
-<h2 id="aba-f103">F103 Modifications and Waivers</h2>
+<h2 id="aba-f103"><a href="#aba-f103" class="navSectionLink">F103</a> Modifications and Waivers</h2>
 <p>The Architectural Barriers Act authorizes the Administrator of the General Services Administration, the Secretary of the Department of Housing and Urban Development, the Secretary of the Department of Defense, and the United States Postal Service to modify or waive the accessibility standards for buildings and facilities covered by the Architectural Barriers Act on a case-by-case basis, upon application made by the head of the department, agency, or instrumentality of the United States concerned.&nbsp; The General Services Administration, the Department of Housing and Urban Development, the Department of Defense, and the United States Postal Service may grant a modification or waiver only upon a determination that it is clearly necessary.&nbsp; Section 502(b)(1) of the Rehabilitation Act of 1973 authorizes the Access Board to ensure that modifications and waivers are based on findings of fact and are not inconsistent with the Architectural Barriers Act.</p>
 <p class="advisory">Advisory <a href="#aba-f103" class="navSectionLink">F103</a> Modifications and Waivers.&nbsp; The provisions for modifications and waivers differ from the requirement issued under the Americans with Disabilities Act in that "equivalent facilitation" does not apply.&nbsp; There is a formal procedure for Federal agencies to request a waiver or modification of applicable standards under the Architectural Barriers Act.</p>
-<h2 id="aba-f104">F104 Conventions</h2>
+<h2 id="aba-f104"><a href="#aba-f104" class="navSectionLink">F104</a> Conventions</h2>
 <h3 id="aba-f104_1">F104.1 Dimensions</h3>
 <p>Dimensions that are not stated as "maximum" or "minimum" are absolute.</p>
 <h4 id="aba-f104_1_1"><a href="#aba-f104_1_1" class="navSectionLink">F104.1.1</a> Construction and Manufacturing Tolerances</h4>
@@ -31,7 +31,7 @@
     <img class="img-large" src="/images/ada-aba/standards/ADA-AB1.gif" alt="Dimension lines show English units above the line (in inches unless otherwise noted) and the SI units (in millimeters unless otherwise noted).  Small measurements show the dimension with an arrow pointing to the dimension line.  Dimension ranges are shown above the line in inches and below the line in millimeters.  “Min” refers to minimum, and “max” refers to the maximum.  Mathematical symbols indicate greater than, greater than or equal to, less than, and less than or equal to.  A dashed line identifies the boundary of clear floor space or maneuvering space.  A line with alternating shot and long dashes with a “C” and “L” at the end indicate the centerline.  A dashed line with longer spaces indicates a permitted element or its extension.  An arrow is to identify the direction of travel or approach.  A thick black line is used to represent a wall, floor, ceiling or other element cut in section or plan.  Gray shading is used to show an element in elevation or plan.  Hatching is used to show the location zone of elements, controls, or features.  Terms defined by this document are shown in italics.">
 </figure>
 
-<h2 id="aba-f105">F105 Referenced Standards</h2>
+<h2 id="aba-f105"><a href="#aba-f105" class="navSectionLink">F105</a> Referenced Standards</h2>
 <h3 id="aba-f105_1">F105.1 General</h3>
 <p>The standards listed in <a href="#aba-f105_2" class="navSectionLink">F105.2</a>are incorporated by reference in this document and are part of the requirements to the prescribed extent of each such reference.&nbsp; The Director of the Federal Register has approved these standards for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the referenced standards may be inspected at the Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, Suite 1000, Washington, DC&nbsp; 20004; at the Department of Justice, Civil Rights Division, Disability Rights Section, 1425 New York Avenue, NW, Washington, DC; at the Department of Transportation, 400 Seventh Street, SW, Room 10424, Washington DC; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.</p>
 <h3 id="aba-f105_2">F105.2 Referenced Standards</h3>
@@ -86,7 +86,7 @@
 <p class="first">Advisory <a href="#aba-f105_2_5" class="navSectionLink">F105.2.5</a> NFPA.&nbsp; NFPA 72-1999 and NFPA 72-2002 address the application, installation, performance, and maintenance of protective signaling systems and their components.&nbsp; The NFPA 72 incorporates Underwriters Laboratory (UL) 1971 by reference.&nbsp; The standard specifies the characteristics of audible alarms, such as placement and sound levels.&nbsp; However, Section 702 of these requirements limits the volume of an audible alarm to 110 dBA, rather than the maximum 120 dBA permitted by NFPA 72-1999.</p>
 <p class="last">NFPA 72 specifies characteristics for visible alarms, such as flash frequency, color, intensity, placement, and synchronization.&nbsp; However, Section 702 of this document requires that visual alarm appliances be permanently installed.&nbsp; UL 1971 specifies intensity dispersion requirements for visible alarms.&nbsp; In particular, NFPA 72 requires visible alarms to have a light source that is clear or white and has polar dispersion complying with UL 1971.</p>
 </div>
-<h2 id="aba-f106">F106 Definitions</h2>
+<h2 id="aba-f106"><a href="#aba-f106" class="navSectionLink">F106</a> Definitions</h2>
 <h3 id="aba-f106_1">F106.1 General</h3>
 <p>For the purpose of this document, the terms defined in <a href="#aba-f106_5" class="navSectionLink">F106.5</a> have the indicated meaning.</p>
 <p class="advisory">Advisory <a href="#aba-f106_1" class="navSectionLink">F106.1</a> General.&nbsp; Terms defined in Section 106.5 are italicized in the text of this document.</p>
@@ -184,7 +184,7 @@
     <div class="chapter">
         <h1>Chapter 2: Scoping Requirements</h1>
         <div itemprop="articleBody">
-<h2 id="aba-f201">F201 Application</h2>
+<h2 id="aba-f201"><a href="#aba-f201" class="navSectionLink">F201</a> Application</h2>
 <h3 id="aba-f201_1">F201.1 Scope</h3>
 <p>All areas of newly designed and newly constructed buildings and facilities and altered or leased portions of existing buildings and facilities shall comply with these requirements.</p>
 <p class="advisory">Advisory <a href="#aba-f201_1" class="navSectionLink">F201.1</a> Scope.&nbsp; The requirements are to be applied to all areas of a facility unless exempted, or where scoping limits the number of multiple elements required to be accessible.&nbsp; For example, not all medical care patient rooms are required to be accessible; those that are not required to be accessible are not required to comply with these requirements.&nbsp; However, common use and public use spaces such as recovery rooms, examination rooms, and cafeterias are not exempt from these requirements and must be accessible.</p>
@@ -198,7 +198,7 @@
 <h4 id="aba-f201_4_1"><a href="#aba-f201_4_1" class="navSectionLink">F201.4.1</a> Documentation and Notification When Exceptions Used for Trails and Beach Access Routes</h4>
 <p>Federal agencies shall document the basis for not fully complying with a specific provision in 1017 or 1018 on a portion of a trail or beach access route based on Exception 1 in 1017 or Exception 1 in 1018, and shall maintain the documentation with the records for the trail or beach project. Federal agencies shall notify the Access Board if an entire trail is exempted from complying with 1017 based on Exception 2 in 1017.1, and if a beach access route is not provided based on Exception 2 in 1018.1.</p>
 <p class="advisory">Advisory <a href="#aba-f201_4_1" class="navSectionLink">F201.4.1</a> Documentation and Notification When Exceptions Used for Trails and Beach Access Routes.&nbsp;Forms for notifying the Access Board if an entire trail is exempted from complying with 1017 based on Exception 2 in 1017.1, and if a beach access route is not provided based on Exception 2 in 1018.1 are available at: <a href="/guidelines-and-standards/recreation-facilities/outdoor-developed-areas/final-guidelines-for-outdoor-developed-areas/notification-forms" class=" usa-link--external" title="external link">www.access-board.gov</a>.</p>
-<h2 id="aba-f202">F202 Existing Buildings and Facilities</h2>
+<h2 id="aba-f202"><a href="#aba-f202" class="navSectionLink">F202</a> Existing Buildings and Facilities</h2>
 <h3 id="aba-f202_1">F202.1 General</h3>
 <p>Additions and alterations to existing buildings or facilities, including leased buildings or facilities, shall comply with F202.</p>
 <h3 id="aba-f202_2">F202.2 Additions</h3>
@@ -285,7 +285,7 @@
 <p>Where emergency transportable housing units are installed on existing commercial sites, entities shall provide emergency transportable housing units with mobility features complying with 809.2 as determined by a needs assessment conducted by the entity providing the emergency transportable housing units.</p>
 <h5 id="aba-f202_6_5_10">F202.6.5.10 Emergency Transportable Housing Units with Communication Features</h5>
 <p>Where emergency transportable housing units are installed on existing commercial sites, entities shall provide emergency transportable housing units with residential dwelling unit smoke alarms complying with <a href="#aba-809_3_1" class="navSectionLink">809.3.1</a> and, where weather alert systems are provided, with weather alert systems complying with <a href="#aba-809_3_4" class="navSectionLink">809.3.4</a> as determined by a needs assessment conducted by the entity providing the emergency transportable housing units.</p>
-<h2 id="aba-f203">F203 General Exceptions</h2>
+<h2 id="aba-f203"><a href="#aba-f203" class="navSectionLink">F203</a> General Exceptions</h2>
 <h3 id="aba-f203_1">F203.1 General</h3>
 <p>Sites, buildings, facilities, and elements are exempt from these requirements to the extent specified by F203.</p>
 <h3 id="aba-f203_2">F203.2 Existing Elements</h3>
@@ -319,12 +319,12 @@
 <p>Raised boxing or wrestling rings shall not be required to comply with these requirements or to be on an accessible route.</p>
 <h3 id="aba-f203_14"><a href="#aba-f203_14" class="navSectionLink">F203.14</a> Raised Diving Boards and Diving Platforms</h3>
 <p>Raised diving boards and diving platforms shall not be required to comply with these requirements or to be on an accessible route.</p>
-<h2 id="aba-f204">F204 Protruding Objects</h2>
+<h2 id="aba-f204"><a href="#aba-f204" class="navSectionLink">F204</a> Protruding Objects</h2>
 <h3 id="aba-f204_1">F204.1 General</h3>
 <p>Protruding objects on circulation paths shall comply with <a href="#aba-307" class="navSectionLink">307</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Within areas of sport activity, protruding objects on circulation paths shall not be required to comply with <a href="#aba-307" class="navSectionLink">307</a>.</p>
 <p>2.&nbsp; Within play areas, protruding objects on circulation paths shall not be required to comply with 307 provided that ground level accessible routes provide vertical clearance in compliance with 1008.2.</p>
-<h2 id="aba-f205">F205 Operable Parts</h2>
+<h2 id="aba-f205"><a href="#aba-f205" class="navSectionLink">F205</a> Operable Parts</h2>
 <h3 id="aba-f205_1">F205.1 General</h3>
 <p>Operable parts on accessible elements, accessible routes, and in accessible rooms and spaces shall comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Operable parts that are intended for use only by service or maintenance personnel shall not be required to comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
@@ -339,7 +339,7 @@
 <p>10. In emergency transportable housing units required to provide mobility features complying with <a href="#aba-809_2" class="navSectionLink">809.2</a>, operable parts located beneath the unit body shall not be required to comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
 <p>11. Water shut-off valves shall not be required to comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
 <p class="advisory">Advisory <a href="#aba-f205_1" class="navSectionLink">F205.1</a> General.&nbsp; Controls covered by <a href="#aba-f205_1" class="navSectionLink">F205.1</a> include, but are not limited to, light switches, circuit breakers, duplexes and other convenience receptacles, environmental and appliance controls, plumbing fixture controls, and security and intercom systems.</p>
-<h2 id="aba-f206">F206 Accessible Routes</h2>
+<h2 id="aba-f206"><a href="#aba-f206" class="navSectionLink">F206</a> Accessible Routes</h2>
 <h3 id="aba-f206_1">F206.1 General</h3>
 <p>Accessible routes shall be provided in accordance with <a href="#aba-f206" class="navSectionLink">F206</a> and shall comply with Chapter 4 except that the exemptions at <a href="#aba-403_5" class="navSectionLink">403.5</a>, 405.5, and <a href="#aba-405_8" class="navSectionLink">405.8</a> shall not apply.</p>
 <p>EXCEPTIONS:&nbsp; 1<strong>.</strong>&nbsp; Accessible routes shall not be required where outdoor recreation access routes are provided at camping facilities in accordance with <a href="#aba-f244_5" class="navSectionLink">F244.5</a>, picnic facilities in accordance with <a href="#aba-f245_4" class="navSectionLink">F245.4</a>, viewing areas in accordance with <a href="#aba-f246_3" class="navSectionLink">F246.3</a>, or trailheads in accordance with <a href="#aba-f247_3_2" class="navSectionLink">F247.3.2</a>.</p>
@@ -493,14 +493,14 @@
 <h3 id="aba-f206_8">F206.8 Security Barriers</h3>
 <p>Security barriers, including but not limited to, security bollards and security check points, shall not obstruct a required accessible route or accessible means of egress.</p>
 <p>EXCEPTION:&nbsp; Where security barriers incorporate elements that cannot comply with these requirements such as certain metal detectors, fluoroscopes, or other similar devices, the accessible route shall be permitted to be located adjacent to security screening devices.&nbsp; The accessible route shall permit persons with disabilities passing around security barriers to maintain visual contact with their personal items to the same extent provided others passing through the security barrier.</p>
-<h2 id="aba-f207">F207 Accessible Means of Egress</h2>
+<h2 id="aba-f207"><a href="#aba-f207" class="navSectionLink">F207</a> Accessible Means of Egress</h2>
 <h3 id="aba-f207_1">F207.1 General</h3>
 <p>Means of egress shall comply with section 1003.2.13 of the International Building Code (2000 edition and 2001 Supplement) or section 1007 of the International Building Code (2003 edition) (incorporated by reference, see "Referenced Standards" in Chapter 1).</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Where means of egress are permitted by local building or life safety codes to share a common path of egress travel, accessible means of egress shall be permitted to share a common path of egress travel.</p>
 <p>2.&nbsp; Areas of refuge shall not be required in detention and correctional facilities.</p>
 <h3 id="aba-f207_2">F207.2 Platform Lifts</h3>
 <p>Standby power shall be provided for platform lifts permitted by section 1003.2.13.4 of the International Building Code (2000 edition and 2001 Supplement) or section 1007.5 of the International Building Code (2003 edition) (incorporated by reference, see "Referenced Standards" in Chapter 1) to serve as a part of an accessible means of egress.</p>
-<h2 id="aba-f208">F208 Parking Spaces</h2>
+<h2 id="aba-f208"><a href="#aba-f208" class="navSectionLink">F208</a> Parking Spaces</h2>
 <h3 id="aba-f208_1">F208.1 General</h3>
 <p>Where parking spaces are provided, parking spaces shall be provided in accordance with F208.</p>
 <p>EXCEPTION:&nbsp; Parking spaces used exclusively for buses, trucks, other delivery vehicles, law enforcement vehicles, or vehicular impound shall not be required to comply with <a href="#aba-f208" class="navSectionLink">F208</a> provided that lots accessed by the public are provided with a passenger loading zone complying with <a href="#aba-503" class="navSectionLink">503</a>.</p>
@@ -585,7 +585,7 @@
 <p>In facilities containing residential dwelling units required to provide mobility features complying with <a href="#aba-809_2" class="navSectionLink">809.2</a>, parking spaces provided in accordance with <a href="#aba-f208_2_3_1" class="navSectionLink">F208.2.3.1</a> shall be located on the shortest accessible&nbsp;route to the residential dwelling unit entrance they serve.&nbsp; Spaces provided in accordance with <a href="#aba-f208_2_3_2" class="navSectionLink">F208.2.3.2</a> shall be dispersed throughout all types of parking provided for the residential dwelling units.</p>
 <p>EXCEPTION:&nbsp; Parking spaces provided in accordance with <a href="#aba-f208_2_3_2" class="navSectionLink">F208.2.3.2</a> shall not be required to be dispersed throughout all types of parking if substantially equivalent or greater accessibility is provided in terms of distance from an accessible entrance, parking fee, and user convenience.</p>
 <p class="advisory">Advisory <a href="#aba-f208_3_2" class="navSectionLink">F208.3.2</a> Residential Facilities Exception.&nbsp; Factors that could affect "user convenience" include, but are not limited to, protection from the weather, security, lighting, and comparative maintenance of the alternative parking site.</p>
-<h2 id="aba-f209">F209 Passenger Loading Zones and Bus Stops</h2>
+<h2 id="aba-f209"><a href="#aba-f209" class="navSectionLink">F209</a> Passenger Loading Zones and Bus Stops</h2>
 <h3 id="aba-f209_1">F209.1 General</h3>
 <p>Passenger loading zones shall be provided in accordance with F209.</p>
 <h3 id="aba-f209_2">F209.2 Type</h3>
@@ -603,7 +603,7 @@
 <p>Parking facilities that provide valet parking services shall provide at least one passenger loading zone complying with <a href="#aba-503" class="navSectionLink">503</a>.</p>
 <h3 id="aba-f209_5">F209.5 Mechanical Access Parking Garages</h3>
 <p>Mechanical access parking garages shall provide at least one passenger loading zone complying with 503 at vehicle drop-off and vehicle pick-up areas.</p>
-<h2 id="aba-f210">F210 Stairways</h2>
+<h2 id="aba-f210"><a href="#aba-f210" class="navSectionLink">F210</a> Stairways</h2>
 <h3 id="aba-f210_1">F210.1 General</h3>
 <p>Interior and exterior stairs that are part of a means of egress shall comply with <a href="#aba-504" class="navSectionLink">504</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; In detention and correctional facilities, stairs that are not located in public use areas shall not be required to comply with <a href="#aba-504" class="navSectionLink">504</a>.</p>
@@ -611,7 +611,7 @@
 <p>3.&nbsp; In assembly areas, aisle stairs shall not be required to comply with <a href="#aba-504" class="navSectionLink">504</a>.</p>
 <p>4.&nbsp; Stairs that connect play components shall not be required to comply with <a href="#aba-504" class="navSectionLink">504</a>.</p>
 <p class="advisory">Advisory <a href="#aba-f210_1" class="navSectionLink">F210.1</a> General.&nbsp; Although these requirements do not mandate handrails on stairs that are not part of a means of egress, State or local building codes may require handrails or guards.</p>
-<h2 id="aba-f211">F211 Drinking Fountains</h2>
+<h2 id="aba-f211"><a href="#aba-f211" class="navSectionLink">F211</a> Drinking Fountains</h2>
 <h3 id="aba-f211_1">F211.1 General</h3>
 <p>Where drinking fountains are provided on an exterior site, on a floor, and within a secured area they shall be provided in accordance with F211.</p>
 <p>EXCEPTION:&nbsp; In detention or correctional facilities, drinking fountains only serving holding or housing cells not required to comply with <a href="#aba-f232" class="navSectionLink">F232</a> shall not be required to comply with F211.</p>
@@ -621,7 +621,7 @@
 <h3 id="aba-f211_3">F211.3 More Than Minimum Number</h3>
 <p>Where more than the minimum number of drinking fountains specified in <a href="#aba-f211_2" class="navSectionLink">F211.2</a> are provided, 50 percent of the total number of drinking fountains provided shall comply with 602.1 through <a href="#aba-602_6" class="navSectionLink">602.6</a>, and 50 percent of the total number of drinking fountains provided shall comply with 602.7.</p>
 <p>EXCEPTION:&nbsp; Where 50 percent of the drinking fountains yields a fraction, 50 percent shall be permitted to be rounded up or down provided that the total number of drinking fountains complying with <a href="#aba-f211" class="navSectionLink">F211</a> equals 100 percent of drinking fountains.</p>
-<h2 id="aba-f212">F212 Kitchens, Kitchenettes, and Sinks</h2>
+<h2 id="aba-f212"><a href="#aba-f212" class="navSectionLink">F212</a> Kitchens, Kitchenettes, and Sinks</h2>
 <h3 id="aba-f212_1">F212.1 General</h3>
 <p>Where provided, kitchens, kitchenettes, and sinks shall comply with F212.</p>
 <h3 id="aba-f212_2">F212.2 Kitchens and Kitchenettes</h3>
@@ -630,7 +630,7 @@
 <p>Where sinks are provided, at least 5 percent, but no fewer than one, of each type provided in each accessible room or space shall comply with <a href="#aba-606" class="navSectionLink">606</a>.</p>
 <p>EXCEPTIONS: &nbsp;1. Mop or service sinks shall not be required to comply with <a href="#aba-f212_3" class="navSectionLink">F212.3</a>.</p>
 <p>2.&nbsp;In camping facilities and picnic facilities, sinks shall not be required to comply with <a href="#aba-f212_3" class="navSectionLink">F212.3</a> where a cooktop or conventional range is not provided.</p>
-<h2 id="aba-f213">F213 Toilet Facilities and Bathing Facilities</h2>
+<h2 id="aba-f213"><a href="#aba-f213" class="navSectionLink">F213</a> Toilet Facilities and Bathing Facilities</h2>
 <h3 id="aba-f213_1">F213.1 General</h3>
 <p>Where toilet facilities and bathing facilities are provided, they shall comply with F213.&nbsp; Where toilet facilities and bathing facilities are provided in facilities permitted by <a href="#aba-f206_2_3" class="navSectionLink">F206.2.3</a> Exceptions 1 and 2 not to connect stories by an accessible route, toilet facilities and bathing facilities shall be provided on a story connected by an accessible route to an accessible entrance.</p>
 <p>EXCEPTION:<strong>&nbsp;</strong>&nbsp;Pit toilets provided on trails and in camping facilities shall not be required to comply with F213.</p>
@@ -664,7 +664,7 @@
 <p>Where bathtubs or showers are provided, at least one bathtub complying with 607 or at least one shower complying with 608 shall be provided.</p>
 <h4 id="aba-f213_3_7"><a href="#aba-f213_3_7" class="navSectionLink">F213.3.7</a> Coat Hooks and Shelves</h4>
 <p>Where coat hooks or shelves are provided in toilet rooms without toilet compartments, at least one of each type shall comply with 603.4. Where coat hooks or shelves are provided in toilet compartments, at least one of each type complying with <a href="#aba-604_8_3" class="navSectionLink">604.8.3</a> shall be provided in toilet compartments required to comply with <a href="#aba-f213_3_1" class="navSectionLink">F213.3.1</a>.&nbsp; Where coat hooks or shelves are provided in bathing facilities, at least one of each type complying with 603.4 shall serve fixtures required to comply with <a href="#aba-f213_3_6" class="navSectionLink">F213.3.6</a>.</p>
-<h2 id="aba-f214">F214 Washing Machines and Clothes Dryers</h2>
+<h2 id="aba-f214"><a href="#aba-f214" class="navSectionLink">F214</a> Washing Machines and Clothes Dryers</h2>
 <h3 id="aba-f214_1">F214.1 General</h3>
 <p>Where provided, washing machines and clothes dryers shall comply with F214.</p>
 <p>EXCEPTION:&nbsp; Washing machines and clothes dryers provided in employee work areas shall not be required to comply with F214.</p>
@@ -673,7 +673,7 @@
 <p>Where three or fewer washing machines are provided, at least one shall comply with 611.&nbsp; Where more than three washing machines are provided, at least two shall comply with <a href="#aba-611" class="navSectionLink">611</a>.</p>
 <h3 id="aba-f214_3">F214.3 Clothes Dryers</h3>
 <p>Where three or fewer clothes dryers are provided, at least one shall comply with 611.&nbsp; Where more than three clothes dryers are provided, at least two shall comply with <a href="#aba-611" class="navSectionLink">611</a>.</p>
-<h2 id="aba-f215">F215 Fire Alarm Systems</h2>
+<h2 id="aba-f215"><a href="#aba-f215" class="navSectionLink">F215</a> Fire Alarm Systems</h2>
 <h3 id="aba-f215_1">F215.1 General</h3>
 <p>Where fire alarm systems provide audible alarm coverage, alarms shall comply with F215.</p>
 <p>EXCEPTION:&nbsp; In existing facilities, visible alarms shall not be required except where an existing fire alarm system is upgraded or replaced, or a new fire alarm system is installed.</p>
@@ -685,7 +685,7 @@
 <h3 id="aba-f215_4">F215.4 Transient Lodging</h3>
 <p>Guest rooms required to comply with <a href="#aba-f224_4" class="navSectionLink">F224.4</a> shall provide alarms complying with <a href="#aba-702" class="navSectionLink">702</a>.</p>
 <p id="f2155">F215.5 Residential Dwelling Units. &nbsp;Where provided in residential dwelling units required to provide communication features complying with <a href="#aba-809_3" class="navSectionLink">809.3</a>, alarms shall comply with <a href="#aba-702" class="navSectionLink">702</a>.</p>
-<h2 id="aba-f216">F216 Signs</h2>
+<h2 id="aba-f216"><a href="#aba-f216" class="navSectionLink">F216</a> Signs</h2>
 <h3 id="aba-f216_1">F216.1 General</h3>
 <p>Signs shall be provided in accordance with <a href="#aba-f216" class="navSectionLink">F216</a> and shall comply with <a href="#aba-703" class="navSectionLink">703</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Building directories, menus, seat and row designations in assembly areas, occupant names, building addresses, and company names and logos shall not be required to comply with F216.</p>
@@ -737,7 +737,7 @@
 <h3 id="aba-f216_13"><a href="#aba-f216_13" class="navSectionLink">F216.13</a> Trailhead Signs</h3>
 <p>Where new trail information signs are provided at trailheads on newly constructed or altered trails designed for use by hikers or pedestrians, the signs shall comply with 1017.10.</p>
 <p class="advisory">Advisory <a href="#aba-f216_13" class="navSectionLink">F216.13</a> Trailhead Signs.&nbsp;New trail information signs are required to comply with <a href="#aba-1017_10" class="navSectionLink">1017.10</a> regardless of whether the newly constructed or altered trails comply with 1017. If trail information signs designate the name of the trail, only the name of the trail is required to comply with 703.5. See <a href="#aba-f216_2" class="navSectionLink">F216.2</a>. Tactile characters are not required on exterior signs. Trail information signs are not required to display the International Symbol of Accessibility.</p>
-<h2 id="aba-f217">F217 Telephones</h2>
+<h2 id="aba-f217"><a href="#aba-f217" class="navSectionLink">F217</a> Telephones</h2>
 <h3 id="aba-f217_1">F217.1 General</h3>
 <p>Where coin-operated public pay telephones, coinless public pay telephones, public closed-circuit telephones, public courtesy phones, or other types of public telephones are provided, public telephones shall be provided in accordance with <a href="#aba-f217" class="navSectionLink">F217</a> for each type of public telephone provided.&nbsp; For purposes of this section, a bank of telephones shall be considered to be two or more adjacent telephones.</p>
 <p class="advisory">Advisory <a href="#aba-f217_1" class="navSectionLink">F217.1</a> General.&nbsp; These requirements apply to all types of public telephones including courtesy phones at airports and rail stations that provide a free direct connection to hotels, transportation services, and tourist attractions.</p>
@@ -789,7 +789,7 @@
 <p>Where a bank of telephones in the interior of a building consists of three or more public pay telephones, at least one public pay telephone at the bank shall be provided with a shelf and an electrical outlet in accordance with 704.5.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Secured areas of detention and correctional facilities where shelves and outlets are prohibited for purposes of security or safety shall not be required to comply with <a href="#aba-f217_5" class="navSectionLink">F217.5</a>.</p>
 <p>2.&nbsp; The shelf and electrical outlet shall not be required at a bank of telephones with a TTY.</p>
-<h2 id="aba-f218">F218 Transportation Facilities</h2>
+<h2 id="aba-f218"><a href="#aba-f218" class="navSectionLink">F218</a> Transportation Facilities</h2>
 <h3 id="aba-f218_1">F218.1 General</h3>
 <p>Transportation facilities shall comply with F218.</p>
 <h3 id="aba-f218_2">F218.2 New and Altered Fixed Guideway Stations</h3>
@@ -798,7 +798,7 @@
 <p>Where provided, bus shelters shall comply with 810.3 and 810.4.</p>
 <h3 id="aba-f218_4">F218.4 Other Transportation Facilities</h3>
 <p>In other transportation facilities, public address systems shall comply with 810.7 and clocks shall comply with 810.8.</p>
-<h2 id="aba-f219">F219 Assistive Listening Systems</h2>
+<h2 id="aba-f219"><a href="#aba-f219" class="navSectionLink">F219</a> Assistive Listening Systems</h2>
 <h3 id="aba-f219_1">F219.1 General</h3>
 <p>Assistive listening systems shall be provided in accordance with <a href="#aba-f219" class="navSectionLink">F219</a> and shall comply with <a href="#aba-706" class="navSectionLink">706</a>.</p>
 <h3 id="aba-f219_2">F219.2 Required Systems</h3>
@@ -846,11 +846,11 @@
 </tbody>
 </table>
 <p><span class="text-italic">Table Legend:</span> 1. <span id="21931">Or fraction thereof</span></p>
-<h2 id="aba-f220">F220 Automatic Teller Machines and Fare Machines</h2>
+<h2 id="aba-f220"><a href="#aba-f220" class="navSectionLink">F220</a> Automatic Teller Machines and Fare Machines</h2>
 <h3 id="aba-f220_1">F220.1 General</h3>
 <p>Where automatic teller machines or self-service fare vending, collection, or adjustment machines are provided, at least one of each type provided at each location shall comply with 707.&nbsp; Where bins are provided for envelopes, waste paper, or other purposes, at least one of each type shall comply with <a href="#aba-811" class="navSectionLink">811</a>.</p>
 <p class="advisory">Advisory <a href="#aba-f220_1" class="navSectionLink">F220.1</a> General.&nbsp; If a bank provides both interior and exterior ATMs, each such installation is considered a separate location.&nbsp; Accessible ATMs, including those with speech and those that are within reach of people who use wheelchairs, must provide all the functions provided to customers at that location at all times.&nbsp; For example, it is unacceptable for the accessible ATM only to provide cash withdrawals while inaccessible ATMs also sell theater tickets.</p>
-<h2 id="aba-f221">F221 Assembly Areas</h2>
+<h2 id="aba-f221"><a href="#aba-f221" class="navSectionLink">F221</a> Assembly Areas</h2>
 <h3 id="aba-f221_1">F221.1 General</h3>
 <p>Assembly areas shall provide wheelchair spaces, companion seats, and designated aisle seats complying with <a href="#aba-f221" class="navSectionLink">F221</a> and 802.&nbsp; In addition, lawn seating shall comply with <a href="#aba-f221_5" class="navSectionLink">F221.5</a>.</p>
 <h3 id="aba-f221_2">F221.2 Wheelchair Spaces</h3>
@@ -931,14 +931,14 @@
 <p class="advisory">Advisory <a href="#aba-f221_4" class="navSectionLink">F221.4</a> Designated Aisle Seats.&nbsp; When selecting which aisle seats will meet the requirements of <a href="#aba-802_4" class="navSectionLink">802.4</a>, those aisle seats which are closest to, not necessarily on, accessible routes must be selected first.&nbsp; For example, an assembly area has two aisles (A and B) serving seating areas with an accessible route connecting to the top and bottom of Aisle A only.&nbsp; The aisle seats chosen to meet 802.4 must be those at the top and bottom of Aisle A, working toward the middle.&nbsp; Only when all seats on Aisle A would not meet the five percent minimum would seats on Aisle B be designated.</p>
 <h3 id="aba-f221_5">F221.5 Lawn Seating</h3>
 <p>Lawn seating areas and exterior overflow seating areas, where fixed seats are not provided, shall connect to an accessible route.</p>
-<h2 id="aba-f222">F222 Dressing, Fitting, and Locker Rooms</h2>
+<h2 id="aba-f222"><a href="#aba-f222" class="navSectionLink">F222</a> Dressing, Fitting, and Locker Rooms</h2>
 <h3 id="aba-f222_1">F222.1 General</h3>
 <p>Where dressing rooms, fitting rooms, or locker rooms are provided, at least 5 percent, but no fewer than one, of each type of use in each cluster provided shall comply with <a href="#aba-803" class="navSectionLink">803</a>.</p>
 <p>EXCEPTION:&nbsp; In alterations, where it is technically infeasible to provide rooms in accordance with <a href="#aba-f222_1" class="navSectionLink">F222.1</a>, one room for each sex on each level shall comply with 803. Where only unisex rooms are provided, unisex rooms shall be permitted.</p>
 <p class="advisory">Advisory <a href="#aba-f222_1" class="navSectionLink">F222.1</a> General.&nbsp; A "cluster" is a group of rooms proximate to one another.&nbsp; Generally, rooms in a cluster are within sight of, or adjacent to, one another.&nbsp; Different styles of design provide users varying levels of privacy and convenience.&nbsp; Some designs include private changing facilities that are close to core areas of the facility, while other designs use space more economically and provide only group dressing facilities.&nbsp; Regardless of the type of facility, dressing, fitting, and locker rooms should provide people with disabilities rooms that are equally private and convenient to those provided others.&nbsp; For example, in a physician's office, if people without disabilities must traverse the full length of the office suite in clothing other than their street clothes, it is acceptable for people with disabilities to be asked to do the same.</p>
 <h3 id="aba-f222_2">F222.2 Coat Hooks and Shelves</h3>
 <p>Where coat hooks or shelves are provided in dressing, fitting or locker rooms without individual compartments, at least one of each type shall comply with 803.5.&nbsp; Where coat hooks or shelves are provided in individual compartments at least one of each type complying with 803.5 shall be provided in individual compartments in dressing, fitting, or locker rooms required to comply with <a href="#aba-f222_1" class="navSectionLink">F222.1</a>.</p>
-<h2 id="aba-f223">F223 Medical Care and Long-Term Care Facilities</h2>
+<h2 id="aba-f223"><a href="#aba-f223" class="navSectionLink">F223</a> Medical Care and Long-Term Care Facilities</h2>
 <h3 id="aba-f223_1">F223.1 General</h3>
 <p>In licensed medical care facilities and licensed long-term care facilities where the period of stay exceeds twenty-four hours, patient or resident sleeping rooms shall be provided in accordance with F223.</p>
 <p>EXCEPTION:&nbsp; Toilet rooms that are part of critical or intensive care patient sleeping rooms shall not be required to comply with <a href="#aba-603" class="navSectionLink">603</a>.</p>
@@ -955,7 +955,7 @@
 <p class="advisory">Advisory <a href="#aba-f223_2_2" class="navSectionLink">F223.2.2</a> Facilities Specializing in Treating Conditions That Affect Mobility.&nbsp; Conditions that affect mobility include conditions requiring the use or assistance of a brace, cane, crutch, prosthetic device, wheelchair, or powered mobility aid; arthritic, neurological, or orthopedic conditions that severely limit one's ability to walk; respiratory diseases and other conditions which may require the use of portable oxygen; and cardiac conditions that impose significant functional limitations.&nbsp; Facilities that may provide treatment for, but that do not specialize in treatment of such conditions, such as general rehabilitation hospitals, are not subject to this requirement but are subject to Section <a href="#aba-f223_2_1" class="navSectionLink">F223.2.1</a>.</p>
 <h3 id="aba-f223_3">F223.3 Long-Term Care Facilities</h3>
 <p>In licensed long-term care facilities, at least 50 percent, but no fewer than one, of each type of resident sleeping room shall provide mobility features complying with <a href="#aba-805" class="navSectionLink">805</a>.</p>
-<h2 id="aba-f224">F224 Transient Lodging Guest Rooms</h2>
+<h2 id="aba-f224"><a href="#aba-f224" class="navSectionLink">F224</a> Transient Lodging Guest Rooms</h2>
 <h3 id="aba-f224_1">F224.1 General</h3>
 <p>Transient lodging facilities shall provide guest rooms in accordance with F224.</p>
 <p class="advisory">Advisory <a href="#aba-f224_1" class="navSectionLink">F224.1</a> General.&nbsp; Certain facilities used for transient lodging including time shares, dormitories, and town homes may be covered by both these requirements and the Fair Housing Amendments Act.&nbsp; The Fair Housing Amendments Act requires that certain residential structures having four or more multi-family dwelling units, regardless of whether they are privately owned or federally assisted, include certain features of accessible and adaptable design according to guidelines established by the U.S. Department of Housing and Urban Development (HUD).&nbsp; This law and the appropriate regulations should be consulted before proceeding with the design and construction of residential housing.</p>
@@ -1099,7 +1099,7 @@
 <h3 id="aba-f224_5">F224.5 Dispersion</h3>
 <p>Guest rooms required to provide mobility features complying with 806.2 and guest rooms required to provide communication features complying with 806.3 shall be dispersed among the various classes of guest rooms, and shall provide choices of types of guest rooms, number of beds, and other amenities comparable to the choices provided to other guests. Where the minimum number of guest rooms required to comply with 806 is not sufficient to allow for complete dispersion, guest rooms shall be dispersed in the following priority:&nbsp; guest room type, number of beds, and amenities.&nbsp; At least one guest room required to provide mobility features complying with 806.2 shall also provide communication features complying with 806.3. Not more than 10 percent of guest rooms required to provide mobility features complying with 806.2 shall be used to satisfy the minimum number of guest rooms required to provide communication features complying with 806.3.</p>
 <p class="advisory">Advisory <a href="#aba-f224_5" class="navSectionLink">F224.5</a> Dispersion.&nbsp; Factors to be considered in providing an equivalent range of options may include, but are not limited to, room size, bed size, cost, view, bathroom fixtures such as hot tubs and spas, smoking and nonsmoking, and the number of rooms provided.</p>
-<h2 id="aba-f225">F225 Storage</h2>
+<h2 id="aba-f225"><a href="#aba-f225" class="navSectionLink">F225</a> Storage</h2>
 <h3 id="aba-f225_1">F225.1 General</h3>
 <p>Storage facilities shall comply with F225.</p>
 <h3 id="aba-f225_2">F225.2 Storage</h3>
@@ -1131,7 +1131,7 @@
 <p class="advisory">Advisory <a href="#aba-f225_3" class="navSectionLink">F225.3</a> Self-Service Storage Facilities.&nbsp; Although there are no technical requirements that are unique to self-service storage facilities, elements and spaces provided in facilities containing self-service storage spaces required to comply with these requirements must comply with this document where applicable.&nbsp; For example:&nbsp; the number of storage spaces required to comply with these requirements must provide accessible Routes complying with Section F206; Accessible Means of Egress complying with Section F207; Parking Spaces complying with Section F208; and, where provided, other public use or common use elements and facilities such as toilet rooms, drinking fountains, and telephones must comply with the applicable requirements of this document.</p>
 <h4 id="aba-f225_3_1"><a href="#aba-f225_3_1" class="navSectionLink">F225.3.1</a> Dispersion</h4>
 <p>Individual self-service storage spaces shall be dispersed throughout the various classes of spaces provided.&nbsp; Where more classes of spaces are provided than the number required to be accessible, the number of spaces shall not be required to exceed that required by Table <a href="#aba-f225_3" class="navSectionLink">F225.3</a>.&nbsp; Self-service storage spaces complying with Table <a href="#aba-f225_3" class="navSectionLink">F225.3</a> shall not be required to be dispersed among buildings in a multi-building facility.</p>
-<h2 id="aba-f226">F226 Dining Surfaces and Work Surfaces</h2>
+<h2 id="aba-f226"><a href="#aba-f226" class="navSectionLink">F226</a> Dining Surfaces and Work Surfaces</h2>
 <h3 id="aba-f226_1">F226.1 General</h3>
 <p>Where dining surfaces are provided for the consumption of food or drink, at least 5 percent of the seating spaces and standing spaces at the dining surfaces shall comply with 902.&nbsp; In addition, where work surfaces are provided, at least 5 percent shall comply with <a href="#aba-902" class="navSectionLink">902</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Sales counters and service counters shall not be required to comply with <a href="#aba-902" class="navSectionLink">902</a>.</p>
@@ -1139,7 +1139,7 @@
 <p class="advisory">Advisory <a href="#aba-f226_1" class="navSectionLink">F226.1</a> General.&nbsp; In facilities covered by the ABA, this requirement applies to work surfaces used by employees. Five percent, but not less than one, of permanently installed work surfaces in each work area must be accessible.&nbsp; Permanently installed work surfaces include, but are not limited to, laboratory and work benches, fume hoods, reception counters, teller windows, study carrels, commercial kitchen counters, writing surfaces, and fixed conference tables.&nbsp; Where furnishings are not fixed, Sections 501, 503, and 504 of the Rehabilitation Act of 1973, as amended provides that Federal employees, employees of Federal contractors, and certain other employees, are entitled to "reasonable accommodations." This means that employers may need to procure or adjust furnishings to accommodate the individual needs of employees with disabilities on an "as needed" basis.&nbsp; Consider work surfaces that are flexible and permit installation at variable heights and clearances.</p>
 <h3 id="aba-f226_2">F226.2 Dispersion</h3>
 <p>Dining surfaces and work surfaces required to comply with 902 shall be dispersed throughout the space or facility containing dining surfaces and work surfaces.</p>
-<h2 id="aba-f227">F227 Sales and Service</h2>
+<h2 id="aba-f227"><a href="#aba-f227" class="navSectionLink">F227</a> Sales and Service</h2>
 <h3 id="aba-f227_1">F227.1 General</h3>
 <p>Where provided, check-out aisles, sales counters, service counters, food service lines, queues, and waiting lines shall comply with <a href="#aba-f227" class="navSectionLink">F227</a> and <a href="#aba-904" class="navSectionLink">904</a>.</p>
 <h3 id="aba-f227_2">F227.2 Check-Out Aisles</h3>
@@ -1177,8 +1177,8 @@
 <p>Food service lines shall comply with 904.5.&nbsp; Where self-service shelves are provided, at least 50 percent, but no fewer than one, of each type provided shall comply with <a href="#aba-308" class="navSectionLink">308</a>.</p>
 <h3 id="aba-f227_5">F227.5 Queues and Waiting Lines</h3>
 <p>Queues and waiting lines servicing counters or check-out aisles required to comply with 904.3 or 904.4 shall comply with <a href="#aba-403" class="navSectionLink">403</a>.</p>
-<h2 id="aba-f228"><a name="F228 Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers
-"></a>F228 Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers</h2>
+<h2 id="aba-f228"><a name="<a href="#aba-f228" class="navSectionLink">F228</a> Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers
+"></a><a href="#aba-f228" class="navSectionLink">F228</a> Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers</h2>
 <h3 id="aba-f228_1">F228.1 General</h3>
 <p>Where provided, at least one of each type of depository, vending machine, change machine, and fuel dispenser shall comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Drive-up only depositories shall not be required to comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
@@ -1186,16 +1186,16 @@
 <p class="advisory">Advisory <a href="#aba-f228_1" class="navSectionLink">F228.1</a> General.&nbsp; Depositories include, but are not limited to, night receptacles in banks, post offices, video stores, and libraries.</p>
 <h3 id="aba-f228_2">F228.2 Mail Boxes</h3>
 <p>Where mail boxes are provided in an interior location, at least 5 percent, but no fewer than one, of each type shall comply with 309. &nbsp;In facilities with residential dwelling units, where mail boxes are provided for each residential dwelling unit, mail boxes complying with 309 shall be provided for each residential dwelling unit required to provide mobility features complying with 809.2.</p>
-<h2 id="aba-f229">F229 Windows</h2>
+<h2 id="aba-f229"><a href="#aba-f229" class="navSectionLink">F229</a> Windows</h2>
 <h3 id="aba-f229_1">F229.1 General</h3>
 <p>Where glazed openings are provided in accessible rooms or spaces for operation by occupants, excluding employees, at least one opening shall comply with 309.&nbsp; In accessible rooms or spaces, each glazed opening required by an administrative authority to be operable shall comply with <a href="#aba-309" class="navSectionLink">309</a>.</p>
 <p>EXCEPTION: 1.&nbsp; Glazed openings in residential dwelling units required to comply with 809 shall not be required to comply with F229.</p>
 <p>2.&nbsp; Glazed openings in guest rooms required to provide communication features and in guest rooms required to comply with <a href="#aba-f206_5_3" class="navSectionLink">F206.5.3</a> shall not be required to comply with F229.</p>
-<h2 id="aba-f230">F230 Two-Way Communication Systems</h2>
+<h2 id="aba-f230"><a href="#aba-f230" class="navSectionLink">F230</a> Two-Way Communication Systems</h2>
 <h3 id="aba-f230_1">F230.1 General</h3>
 <p>Where a two-way communication system is provided to gain admittance to a building or facility or to restricted areas within a building or facility, the system shall comply with <a href="#aba-708" class="navSectionLink">708</a>.</p>
 <p class="advisory">Advisory <a href="#aba-f230_1" class="navSectionLink">F230.1</a> General.&nbsp; This requirement applies to facilities such as office buildings, courthouses, and other facilities where admittance to the building or restricted spaces is dependent on two-way communication systems.</p>
-<h2 id="aba-f231">F231 Judicial Facilities</h2>
+<h2 id="aba-f231"><a href="#aba-f231" class="navSectionLink">F231</a> Judicial Facilities</h2>
 <h3 id="aba-f231_1">F231.1 General</h3>
 <p>Judicial facilities shall comply with F231.</p>
 <h3 id="aba-f231_2">F231.2 Courtrooms</h3>
@@ -1213,7 +1213,7 @@
 <p>EXCEPTION:&nbsp; The detainee side of cubicles or counters at non-contact visiting areas not serving holding cells required to comply with <a href="#aba-f231" class="navSectionLink">F231</a> shall not be required to comply with 902 or <a href="#aba-904_4_2" class="navSectionLink">904.4.2</a>.</p>
 <h4 id="aba-f231_4_2"><a href="#aba-f231_4_2" class="navSectionLink">F231.4.2</a> Partitions</h4>
 <p>Where solid partitions or security glazing separate visitors from detainees at least one of each type of cubicle or counter partition shall comply with 904.6.</p>
-<h2 id="aba-f232">F232 Detention Facilities and Correctional Facilities</h2>
+<h2 id="aba-f232"><a href="#aba-f232" class="navSectionLink">F232</a> Detention Facilities and Correctional Facilities</h2>
 <h3 id="aba-f232_1">F232.1 General</h3>
 <p>Buildings, facilities, or portions thereof, in which people are detained for penal or correction purposes, or in which the liberty of the inmates is restricted for security reasons shall comply with F232.</p>
 <p class="advisory">Advisory <a href="#aba-f232_1" class="navSectionLink">F232.1</a> General.&nbsp; Detention facilities include, but are not limited to, jails, detention centers, and holding cells in police stations.&nbsp; Correctional facilities include, but are not limited to, prisons, reformatories, and correctional centers.</p>
@@ -1242,7 +1242,7 @@
 <p>EXCEPTION:&nbsp; The inmate or detainee side of cubicles or counters at non-contact visiting areas not serving holding cells or housing cells required to comply with <a href="#aba-f232" class="navSectionLink">F232</a> shall not be required to comply with 902 or <a href="#aba-904_4_2" class="navSectionLink">904.4.2</a>.</p>
 <h4 id="aba-f232_5_2"><a href="#aba-f232_5_2" class="navSectionLink">F232.5.2</a> Partitions</h4>
 <p>Where solid partitions or security glazing separate visitors from detainees or inmates at least one of each type of cubicle or counter partition shall comply with 904.6.</p>
-<h2 id="aba-f233">F233 Residential Facilities</h2>
+<h2 id="aba-f233"><a href="#aba-f233" class="navSectionLink">F233</a> Residential Facilities</h2>
 <h3 id="aba-f233_1">F233.1 General</h3>
 <p>Facilities with residential dwelling units shall comply with F233.</p>
 <div class="advisory">
@@ -1323,7 +1323,7 @@
 <p>Residential dwelling units required to provide mobility features complying with 809.2 and residential dwelling units required to provide communication features complying with 809.3 shall be dispersed among the various types of residential dwelling units in the facility and shall provide choices of residential dwelling units comparable to, and integrated with, those available to other residents.</p>
 <p>EXCEPTIONS 1:&nbsp; Where multi-story residential dwelling units are one of the types of residential dwelling units provided, one-story residential dwelling units shall be permitted as a substitute for multi-story residential dwelling units where equivalent spaces and amenities are provided in the one-story residential dwelling unit.</p>
 <p>2. Emergency transportable housing units required to provide mobility features complying with 809.2 shall not be required to be dispersed among the various types of residential dwelling units in a facility or to provide choices of residential dwelling units comparable to those available to other residents.</p>
-<h2 id="aba-f234">F234 Amusement Rides</h2>
+<h2 id="aba-f234"><a href="#aba-f234" class="navSectionLink">F234</a> Amusement Rides</h2>
 <h3 id="aba-f234_1">F234.1 General</h3>
 <p>Amusement rides shall comply with F234.</p>
 <p>EXCEPTION:&nbsp; Mobile or portable amusement rides shall not be required to comply with F234.</p>
@@ -1348,7 +1348,7 @@
 <p>Where load and unload areas serving existing amusement rides are newly designed and constructed, the load and unload areas shall comply with 1002.3.</p>
 <h4 id="aba-f234_4_2"><a href="#aba-f234_4_2" class="navSectionLink">F234.4.2</a> Minimum Number</h4>
 <p>Where the structural or operational characteristics of an amusement ride are altered to the extent that the amusement ride's performance differs from that specified by the manufacturer or the original design, the amusement ride shall comply with <a href="#aba-f234_3" class="navSectionLink">F234.3</a>.</p>
-<h2 id="aba-f235">F235 Recreational Boating Facilities</h2>
+<h2 id="aba-f235"><a href="#aba-f235" class="navSectionLink">F235</a> Recreational Boating Facilities</h2>
 <h3 id="aba-f235_1">F235.1 General</h3>
 <p>Recreational boating facilities shall comply with F235.</p>
 <h3 id="aba-f235_2">F235.2 Boat Slips</h3>
@@ -1418,17 +1418,17 @@
 <p class="advisory">Advisory <a href="#aba-f235_2_1" class="navSectionLink">F235.2.1</a> Dispersion.&nbsp; Types of boat slips are based on the size of the boat slips; whether single berths or double berths, shallow water or deep water, transient or longer-term lease, covered or uncovered; and whether slips are equipped with features such as telephone, water, electricity or cable connections.&nbsp; The term "boat slip" is intended to cover any pier area other than launch ramp boarding piers where recreational boats are moored for purposes of berthing, embarking, or disembarking.&nbsp; For example, a fuel pier may contain boat slips, and this type of short term slip would be included in determining compliance with <a href="#aba-f235_2" class="navSectionLink">F235.2</a>.</p>
 <h3 id="aba-f235_3">F235.3 Boarding Piers at Boat Launch Ramps</h3>
 <p>Where boarding piers are provided at boat launch ramps, at least 5 percent, but no fewer than one, of the boarding piers shall comply with 1003.3.2.</p>
-<h2 id="aba-f236">F236 Exercise Machines and Equipment</h2>
+<h2 id="aba-f236"><a href="#aba-f236" class="navSectionLink">F236</a> Exercise Machines and Equipment</h2>
 <h3 id="aba-f236_1">F236.1 General</h3>
 <p>At least one of each type of exercise machine and equipment shall comply with 1004.</p>
 <div class="advisory">
 <p class="first">Advisory <a href="#aba-f236_1" class="navSectionLink">F236.1</a> General.&nbsp; Most strength training equipment and machines are considered different types.&nbsp; Where operators provide a biceps curl machine and cable cross-over machine, both machines are required to meet the provisions in this section, even though an individual may be able to work on their biceps through both types of equipment.</p>
 <p class="last">Similarly, there are many types of cardiovascular exercise machines, such as stationary bicycles, rowing machines, stair climbers, and treadmills.&nbsp; Each machine provides a cardiovascular exercise and is considered a different type for purposes of these requirements.</p>
 </div>
-<h2 id="aba-f237">F237 Fishing Piers and Platforms</h2>
+<h2 id="aba-f237"><a href="#aba-f237" class="navSectionLink">F237</a> Fishing Piers and Platforms</h2>
 <h3 id="aba-f237_1">F237.1 General</h3>
 <p>Fishing piers and platforms shall comply with 1005.</p>
-<h2 id="aba-f238">F238 Golf Facilities</h2>
+<h2 id="aba-f238"><a href="#aba-f238" class="navSectionLink">F238</a> Golf Facilities</h2>
 <h3 id="aba-f238_1">F238.1 General</h3>
 <p>Golf facilities shall comply with F238.</p>
 <h3 id="aba-f238_2">F238.2 Golf Courses</h3>
@@ -1442,7 +1442,7 @@
 <p>Where provided, weather shelters shall be designed and constructed so that a golf car can enter and exit the weather shelter and shall comply with 1006.4.</p>
 <h3 id="aba-f238_3">F238.3 Practice Putting Greens, Practice Teeing Grounds, and Teeing Stations at Driving Ranges</h3>
 <p>At least 5 percent, but no fewer than one, of practice putting greens, practice teeing grounds, and teeing stations at driving ranges shall be designed and constructed so that a golf car can enter and exit the practice putting greens, practice teeing grounds, and teeing stations at driving ranges.</p>
-<h2 id="aba-f239">F239 Miniature Golf Facilities</h2>
+<h2 id="aba-f239"><a href="#aba-f239" class="navSectionLink">F239</a> Miniature Golf Facilities</h2>
 <h3 id="aba-f239_1">F239.1 General</h3>
 <p>Miniature golf facilities shall comply with F239.</p>
 <h3 id="aba-f239_2">F239.2 Minimum Number</h3>
@@ -1452,7 +1452,7 @@
 <p>Miniature golf courses shall be configured so that the holes complying with 1007.3 are consecutive.&nbsp; Miniature golf courses shall provide an accessible route from the last hole complying with 1007.3 to the course entrance or exit without requiring travel through any other holes on the course.</p>
 <p>EXCEPTION:&nbsp; One break in the sequence of consecutive holes shall be permitted provided that the last hole on the miniature golf course is the last hole in the sequence.</p>
 <p class="advisory">Advisory <a href="#aba-f239_3" class="navSectionLink">F239.3</a> Miniature Golf Course Configuration.&nbsp; Where only the minimum 50 percent of the holes are accessible, an accessible route from the last accessible hole to the course exit or entrance must not require travel back through other holes.&nbsp; In some cases, this may require an additional accessible route.&nbsp; Other options include increasing the number of accessible holes in a way that limits the distance needed to connect the last accessible hole with the course exit or entrance.</p>
-<h2 id="aba-f240">F240 Play Areas</h2>
+<h2 id="aba-f240"><a href="#aba-f240" class="navSectionLink">F240</a> Play Areas</h2>
 <h3 id="aba-f240_1">F240.1 General</h3>
 <p>Play areas for children ages 2 and over shall comply with F240.&nbsp; Where separate play areas are provided within a site for specific age groups, each play area shall comply with F240.</p>
 <p>EXCEPTIONS:&nbsp; 1.&nbsp; Play areas located in family child care facilities where the proprietor actually resides shall not be required to comply with F240.</p>
@@ -1544,11 +1544,11 @@
 <p class="first">Advisory <a href="#aba-f240_2_2" class="navSectionLink">F240.2.2</a> Elevated Play Components.&nbsp; A double or triple slide that is part of a composite play structure is one elevated play component. For purposes of this section, ramps, transfer systems, steps, decks, and roofs are not considered elevated play components.&nbsp; Although socialization and pretend play can occur on these elements, they are not primarily intended for play.</p>
 <p class="last">Some play components that are attached to a composite play structure can be approached or exited at the ground level or above grade from a platform or deck.&nbsp; For example, a climber attached to a composite play structure can be approached or exited at the ground level or above grade from a platform or deck on a composite play structure.&nbsp; Play components that are attached to a composite play structure and can be approached from a platform or deck (e.g., climbers and overhead play components) are considered elevated play components.&nbsp; These play components are not considered ground level play components and do not count toward the requirements in <a href="#aba-f240_2_1_2" class="navSectionLink">F240.2.1.2</a> regarding the number of ground level play components that must be located on an accessible route.</p>
 </div>
-<h2 id="aba-f241">F241 Saunas and Steam Rooms</h2>
+<h2 id="aba-f241"><a href="#aba-f241" class="navSectionLink">F241</a> Saunas and Steam Rooms</h2>
 <h3 id="aba-f241_1">F241.1 General</h3>
 <p>Where provided, saunas and steam rooms shall comply with <a href="#aba-612" class="navSectionLink">612</a>.</p>
 <p>EXCEPTION:&nbsp; Where saunas or steam rooms are clustered at a single location, no more than 5 percent of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall be required to comply with <a href="#aba-612" class="navSectionLink">612</a>.</p>
-<h2 id="aba-f242">F242 Swimming Pools, Wading Pools, and Spas</h2>
+<h2 id="aba-f242"><a href="#aba-f242" class="navSectionLink">F242</a> Swimming Pools, Wading Pools, and Spas</h2>
 <h3 id="aba-f242_1">F242.1 General</h3>
 <p>Swimming pools, wading pools, and spas shall comply with F242.</p>
 <h3 id="aba-f242_2">F242.2 Swimming Pools</h3>
@@ -1565,10 +1565,10 @@
 <h3 id="aba-f242_4">F242.4 Spas</h3>
 <p>At least one accessible means of entry shall be provided for spas.&nbsp; Accessible means of entry shall comply with swimming pool lifts complying with1009.2; transfer walls complying with 1009.4; or transfer systems complying with 1009.5.</p>
 <p>EXCEPTION:&nbsp; Where spas are provided in a cluster, no more than 5 percent, but no fewer than one, spa in each cluster shall be required to comply with <a href="#aba-f242_4" class="navSectionLink">F242.4</a>.</p>
-<h2 id="aba-f243">F243 Shooting Facilities with Firing Positions</h2>
+<h2 id="aba-f243"><a href="#aba-f243" class="navSectionLink">F243</a> Shooting Facilities with Firing Positions</h2>
 <h3 id="aba-f243_1">F243.1 General</h3>
 <p> Where shooting facilities with firing positions are designed and constructed at a site, at least 5 percent, but no fewer than one, of each type of firing position shall comply with 1010.</p>
-<h2 id="aba-f244"><strong>F244 Camping Facilities</strong></h2>
+<h2 id="aba-f244"><strong><a href="#aba-f244" class="navSectionLink">F244</a> Camping Facilities</strong></h2>
 <h3 id="aba-f244_1">F244.1 General</h3>
 <p>Camping facilities, other than camping facilities on trails, shall comply with F244.</p>
 <p class="advisory">Advisory <a href="#aba-f244_1" class="navSectionLink">F244.1</a> General.&nbsp; Camping facilities on trails are addressed in <a href="#aba-f247_4_1" class="navSectionLink">F247.4.1</a>.</p>
@@ -1662,7 +1662,7 @@
 <h4 id="aba-f244_5_4"><a href="#aba-f244_5_4" class="navSectionLink">F244.5.4</a> Location</h4>
 <p>Outdoor recreation access routes required by <a href="#aba-f244_5_2" class="navSectionLink">F244.5.2</a> and <a href="#aba-f244_5_3" class="navSectionLink">F244.5.3</a> shall coincide with or be located in the same area as general circulation paths.</p>
 <p class="advisory">Advisory <a href="#aba-f244_5_4" class="navSectionLink">F244.5.4</a> Location.&nbsp; Where a vehicular way serves as the general circulation path for pedestrians at a camping facility, the outdoor recreation access route can be provided within the vehicular way.</p>
-<h2 id="aba-f245">F245 Picnic Facilities</h2>
+<h2 id="aba-f245"><a href="#aba-f245" class="navSectionLink">F245</a> Picnic Facilities</h2>
 <h3 id="aba-f245_1">F245.1 General</h3>
 <p>Picnic facilities, other than picnic facilities on trails, shall comply with F245.</p>
 <p class="advisory">Advisory <a href="#aba-f245_1" class="navSectionLink">F245.1</a> General.&nbsp; Picnic facilities on trails are addressed in <a href="#aba-f247_4_2" class="navSectionLink">F247.4.2</a>.</p>
@@ -1700,11 +1700,11 @@
 <p>At least one outdoor recreation access route shall connect accessible elements, spaces, and facilities provided within common use and public use areas serving picnic units with mobility features.</p>
 <h4 id="aba-f245_4_3"><a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> Routes to Adjacent Recreation Facilities</h4>
 <p>Where a circulation path connects picnic facilities and adjacent recreation facilities, at least one outdoor recreation access route shall connect picnic units with mobility features to an accessible route serving the adjacent recreation facilities.</p>
-<p class="advisory">Advisory <a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> Adjacent Recreation Facilities.&nbsp;&nbsp;<a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> does not modify the accessible route requirements in F206 that apply to adjacent recreation facilities.</p>
+<p class="advisory">Advisory <a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> Adjacent Recreation Facilities.&nbsp;&nbsp;<a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> does not modify the accessible route requirements in <a href="#aba-f206" class="navSectionLink">F206</a> that apply to adjacent recreation facilities.</p>
 <h4 id="aba-f245_4_4"><a href="#aba-f245_4_4" class="navSectionLink">F245.4.4</a> Location</h4>
 <p>Outdoor recreation access routes required by <a href="#aba-f245_4_2" class="navSectionLink">F245.4.2</a> and <a href="#aba-f245_4_3" class="navSectionLink">F245.4.3</a> shall coincide with or be located in the same area as general circulation paths.</p>
 <p class="advisory">Advisory <a href="#aba-f245_4_4" class="navSectionLink">F245.4.4</a> Location.&nbsp; Where a vehicular way serves as the general circulation path for pedestrians at a picnic facility, the outdoor recreation access route can be provided within the vehicular way.</p>
-<h2 id="aba-f246">F246 Viewing Areas</h2>
+<h2 id="aba-f246"><a href="#aba-f246" class="navSectionLink">F246</a> Viewing Areas</h2>
 <h3 id="aba-f246_1">F246.1 General</h3>
 <p>Viewing areas, other than viewing areas on trails, shall comply with <a href="#aba-f246_1" class="navSectionLink">F246.1</a>.</p>
 <p class="advisory">Advisory <a href="#aba-f246_1" class="navSectionLink">F246.1</a> General.&nbsp; Viewing areas on trails are addressed in <a href="#aba-f247_4_3" class="navSectionLink">F247.4.3</a>.</p>
@@ -1716,7 +1716,7 @@
 <h3 id="aba-f246_4">F246.4 Outdoor Recreation Access Routes</h3>
 <p>At least one outdoor recreation access route complying with 1016 shall connect accessible parking spaces or other arrival points serving the viewing area with accessible elements, spaces, and facilities provided within the viewing area.</p>
 <p class="advisory">Advisory <a href="#aba-f246_4" class="navSectionLink">F246.4</a>.&nbsp; Outdoor Recreation Access Routes.&nbsp;&nbsp;There are exceptions in 1016.1 that can be used where conditions specified in 1019 apply.</p>
-<h2 id="aba-f247">F247 Trails</h2>
+<h2 id="aba-f247"><a href="#aba-f247" class="navSectionLink">F247</a> Trails</h2>
 <h3 id="aba-f247_1">F247.1 General</h3>
 <p>Where a trail is designed for use by hikers or pedestrians and directly connects to a trailhead or another trail that substantially meets the requirements in 1017, the trail shall comply with 1017.</p>
 <p class="advisory">Advisory <a href="#aba-f247_1" class="navSectionLink">F247.1</a> General.&nbsp; The Federal Trail Data Standards classify trails by their designed use and managed use.&nbsp; A trail has only one designed use that determines the design, construction, and maintenance parameters for the trail.&nbsp; A trail can have more than one managed use based on a management decision to allow other uses on the trail. Trails that have a designed use for hikers or pedestrians are required to comply with 1017.&nbsp; Trails that have a designed use for other than hikers or pedestrians are not required to comply with 1017.</p>
@@ -1747,7 +1747,7 @@
 <p class="advisory">Advisory <a href="#aba-f247_4_4" class="navSectionLink">F247.4.4</a>. Routes.&nbsp;Routes that connect trails that do not comply with 1017 to camping facilities, picnic facilities, viewing areas, pit toilets, and accessible elements provided within the facilities are not required to comply with 1017. An exception to <a href="#aba-f213_1" class="navSectionLink">F213.1</a>exempts pit toilets from the requirements for accessible toilet facilities.</p>
 <h3 id="aba-f247_5">F247.5 Outdoor Constructed Features</h3>
 <p>Where outdoor constructed features are provided on trails, other than within facilities specified in <a href="#aba-f247_4" class="navSectionLink">F247.4</a>, at least 20 percent, but not less than one, of each type of outdoor constructed feature at each location shall comply with 1011.</p>
-<h2 id="aba-f248">F248 Beach Access Routes</h2>
+<h2 id="aba-f248"><a href="#aba-f248" class="navSectionLink">F248</a> Beach Access Routes</h2>
 <h3 id="aba-f248_1">F248.1 General</h3>
 <p>Beach access routes complying with 1018 shall be provided in accordance with <a href="#aba-f248_1" class="navSectionLink">F248.1</a>.&nbsp; Beach access routes shall be permanent or removable.</p>
 <p>EXCEPTION:&nbsp; Beach access routes shall not be required where pedestrian access to the beach is not permitted.</p>
@@ -5066,7 +5066,7 @@
 <h3 id="aba-1017_9">1017.9 Protruding Objects</h3>
 <p>Constructed elements on trails, passing spaces, and resting intervals shall comply with <a href="#aba-307" class="navSectionLink">307</a>.</p>
 <p class="advisory">Advisory 1017.9 Protruding Objects.&nbsp; Protruding objects on trails, passing spaces, and resting intervals can be hazardous for individuals who are blind or have low vision.&nbsp; Signs and other post mounted objects are examples of constructed elements that can be protruding objects.</p>
-<h3 id="aba-1017_10"><a href="#aba-1017_10" class="navSectionLink">1017.10</a> Trailhead Signs</h3>
+<h3 id="aba-1017_10">1017.10 Trailhead Signs</h3>
 <p>Trail information signs at trailheads shall include the following:</p>
 <ol>
   <li>Length of the trail or trail segment;</li>
