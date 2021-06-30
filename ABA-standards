@@ -2847,7 +2847,7 @@
   <h2 id="aba-505">505 Handrails</h2>
   <h3 id="aba-505_1">505.1 General</h3>
 <p>Handrails provided along walking surfaces complying with 403, required at ramps complying with 405, and required at stairs complying with 504 shall comply with <a href="#aba-505" class="navSectionLink">505</a>.</p>
-  <p class="advisory">Advisory 505.1 General.&nbsp; Handrails are required on ramp runs with a rise greater than 6 inches (150 mm) (see 405.8) and on certain stairways (see 504).&nbsp; Handrails are not required on walking surfaces with running slopes less than 1:20.&nbsp; However, handrails are required to comply with 505 when they are provided on walking surfaces with running slopes less than 1:20 (see 403.6).&nbsp; Sections <a href="#aba-505_2" class="navSectionLink">505.2</a>, 505.3, and 505.10 do not apply to handrails provided on walking surfaces with running slopes less than 1:20 as these sections only reference requirements for ramps and stairs.</p>
+  <p class="advisory">Advisory 505.1 General.&nbsp; Handrails are required on ramp runs with a rise greater than 6 inches (150 mm) (see 405.8) and on certain stairways (see 504).&nbsp; Handrails are not required on walking surfaces with running slopes less than 1:20.&nbsp; However, handrails are required to comply with 505 when they are provided on walking surfaces with running slopes less than 1:20 (see 403.6).&nbsp; Sections <a href="#aba-505_2" class="navSectionLink">505.2</a>, 505.3, and <a href="#aba-505_10" class="navSectionLink">505.10</a> do not apply to handrails provided on walking surfaces with running slopes less than 1:20 as these sections only reference requirements for ramps and stairs.</p>
   <h3 id="aba-505_2">505.2 Where Required</h3>
 <p>Handrails shall be provided on both sides of stairs and ramps.</p>
   <p>EXCEPTION:&nbsp; In assembly areas, handrails shall not be required on both sides of aisle ramps where a handrail is provided at either side or within the aisle width.</p>
@@ -4120,7 +4120,7 @@
 <p>Where a circulation path serving boarding platforms crosses tracks, it shall comply with <a href="#aba-402" class="navSectionLink">402</a>.</p>
 <p>EXCEPTION:&nbsp; Openings for wheel flanges shall be permitted to be 2 1/2 inches (64 mm) maximum.</p>
 <figure role="figure" aria-label="A cross section of a pair of train rails is shown with walkway surfaces abutting the rails on the outside of the pair.  The surface between the rails is at the same level as the outside surfaces, but a horizontal gap 2½ inches (64 mm) maximum is shown on the inner edge of each rail to accommodate a train wheel flange.">
-    <figcaption class="text-bold text-center">Figure 810.10 (Exception) Track Crossings</figcaption>
+    <figcaption class="text-bold text-center">Figure <a href="#aba-810_10" class="navSectionLink">810.10</a> (Exception) Track Crossings</figcaption>
     <img class="img-large" src="/images/ada-aba/standards/ADA-AB114.gif" alt="A cross section of a pair of train rails is shown with walkway surfaces abutting the rails on the outside of the pair.  The surface between the rails is at the same level as the outside surfaces, but a horizontal gap 2½ inches (64 mm) maximum is shown on the inner edge of each rail to accommodate a train wheel flange.">
 </figure>
 
