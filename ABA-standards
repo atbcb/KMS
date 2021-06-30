@@ -43,7 +43,6 @@
 <p>ANSI/BHMA A156.19-2002 American National Standard for Power Assist and Low Energy Power Operated Doors (see <a href="#aba-404_3" class="navSectionLink">404.3</a>, <a href="#aba-408_3_2_1" class="navSectionLink">408.3.2.1/a>, and <a href="#aba-409_3_1" class="navSectionLink">409.3.1/a>).</p>
 <div class="advisory">
 <p class="first">Advisory <a href="#aba-f105_2_1" class="navSectionLink">F105.2.1</a> ANSI/BHMA.&nbsp; ANSI/BHMA A156.10-1999 applies to power operated doors for pedestrian use which open automatically when approached by pedestrians. Included are provisions intended to reduce the chance of user injury or entrapment.</p>
-<p class="last">ANSI/BHMA A156.19-1997 and A156.19-2002 applies to power assist doors, low energy power operated doors or low energy power open doors for pedestrian use not provided for in ANSI/BHMA A156.10 for Power Operated Pedestrian Doors.&nbsp; Included are provisions intended to reduce the chance of user injury or entrapment.</p>
 </div>
 <h4 id="aba-f105_2_2"><a href="#aba-f105_2_2" class="navSectionLink">F105.2.2</a> ASME</h4>
 <p>Copies of the referenced standards may be obtained from the American Society of Mechanical Engineers, Three Park Avenue, New York, New York 10016 (<a href="http://www.asme.org/" class=" usa-link--external" title="external link">http://www.asme.org</a>).</p>
@@ -2245,7 +2244,6 @@
 <p>Doors, gates, and side lights adjacent to doors or gates, containing one or more glazing panels that permit viewing through the panels shall have the bottom of at least one glazed panel located 43 inches (1090 mm) maximum above the finish floor.</p>
 <p>EXCEPTION:&nbsp; Vision lights with the lowest part more than 66 inches (1675 mm) from the finish floor or ground shall not be required to comply with <a href="#aba-404_2_11" class="navSectionLink">404.2.11/a>.</p>
 <h3 id="aba-404_3">404.3 Automatic and Power-Assisted Doors and Gates</h3>
-<p>Automatic doors and automatic gates shall comply with <a href="#aba-404_3" class="navSectionLink">404.3/a>.&nbsp; Full-powered automatic doors shall comply with ANSI/BHMA A156.10 (incorporated by reference, see "Referenced Standards" in Chapter 1).&nbsp; Low-energy and power-assisted doors shall comply with ANSI/BHMA A156.19 (1997 or 2002 edition) (incorporated by reference, see "Referenced Standards" in Chapter 1).</p>
 <h4 id="aba-404_3_1">404.3.1 Clear Width</h4>
 <p>Doorways shall provide a clear opening of 32 inches (815 mm) minimum in power-on and power-off mode.&nbsp; The minimum clear width for automatic door systems in a doorway shall be based on the clear opening provided by all leaves in the open position.</p>
 <h4 id="aba-404_3_2">404.3.2 Maneuvering Clearance</h4>
@@ -2341,7 +2339,7 @@
     <img class="img-large" src="/images/ada-aba/standards/ADA-AB30.gif" alt="An elevation drawing shows a vertical clearance of less than 4 inches (100 mm) between the ramp surface and the bottom edge of a horizontal rail.">
 </figure>
 
-<h3 id="aba-405_10">405.10 Wet Conditions</h3>
+<h3 id="aba-405_10"> <a href="#aba-405_10" class="navSectionLink">405.10/a> Wet Conditions</h3>
 <p>Landings subject to wet conditions shall be designed to prevent the accumulation of water.</p>
 <h2 id="aba-406">406 Curb Ramps</h2>
 <h3 id="aba-406_1">406.1 General</h3>
@@ -2894,7 +2892,7 @@
 <p>Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive elements and shall have rounded edges.</p>
   <h3 id="aba-505_9">505.9 Fittings</h3>
 <p>Handrails shall not rotate within their fittings.</p>
-  <h3 id="aba-505_10">505.10 Handrail Extensions</h3>
+  <h3 id="aba-505_10"> <a href="#aba-505_10" class="navSectionLink">505.10/a> Handrail Extensions</h3>
 <p>Handrail gripping surfaces shall extend beyond and in the same direction of stair flights and ramp runs in accordance with <a href="#aba-505_10" class="navSectionLink">505.10</a>.</p>
   <p>EXCEPTIONS:&nbsp; 1.&nbsp; Extensions shall not be required for continuous handrails at the inside turn of switchback or dogleg stairs and ramps.</p>
   <p>2.&nbsp; In assembly areas, extensions shall not be required for ramp handrails in aisles serving seating where the handrails are discontinuous to provide access to seating and to permit crossovers within aisles.</p>
@@ -4116,7 +4114,7 @@
 <h3 id="aba-810_9">810.9 Escalators</h3>
 <p>Where provided, escalators shall comply with the sections 6.1.3.5.6 and 6.1.3.6.5 of ASME A17.1 (incorporated by reference, see "Referenced Standards" in Chapter 1) and shall have a clear width of 32 inches (815 mm) minimum.</p>
 <p>EXCEPTION:&nbsp; Existing escalators in key stations shall not be required to comply with <a href="#aba-810_9" class="navSectionLink">810.9/a>.</p>
-<h3 id="aba-810_1">810.10 Track Crossings</h3>
+<h3 id="aba-810_1"><a href="#aba-810_10" class="navSectionLink">810.10/a> Track Crossings</h3>
 <p>Where a circulation path serving boarding platforms crosses tracks, it shall comply with <a href="#aba-402" class="navSectionLink">402</a>.</p>
 <p>EXCEPTION:&nbsp; Openings for wheel flanges shall be permitted to be 2 1/2 inches (64 mm) maximum.</p>
 <figure role="figure" aria-label="A cross section of a pair of train rails is shown with walkway surfaces abutting the rails on the outside of the pair.  The surface between the rails is at the same level as the outside surfaces, but a horizontal gap 2½ inches (64 mm) maximum is shown on the inner edge of each rail to accommodate a train wheel flange.">
