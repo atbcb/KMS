@@ -217,7 +217,7 @@ function loadFAQ()
 			
 			answerText.appendTo(answer);
 
-			// Add source link to FAQ content
+			// Add source link to FAQ answer
 			var source =  kmsADA.FAQ[y].guideSource;
 			if (source) {
 				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
@@ -225,7 +225,7 @@ function loadFAQ()
 			};
 
 			if (contentSource) {
-				contentSource.appendTo(entry);
+				contentSource.appendTo(answer);
 			};
 			// End add source
 			

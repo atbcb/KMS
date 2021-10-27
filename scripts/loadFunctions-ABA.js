@@ -225,7 +225,7 @@ function loadFAQ()
 			};
 
 			if (contentSource) {
-				contentSource.appendTo(entry);
+				contentSource.appendTo(answer);
 			};
 			// End add source
 			
