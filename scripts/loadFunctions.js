@@ -107,7 +107,19 @@ function loadGuide()
 			var contentText = jQuery('<p/>', {"html": content});
 			
 			contentText.appendTo(entry);
-			
+
+			// Add source link to guide content
+			var source =  kmsADA.guide[y].guideSource;
+			if (source) {
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
+			};
+
+			if (contentSource) {
+				contentSource.appendTo(entry);
+			};
+			// End add source
+
 			if (kmsADA.guide[y].imageFile) {
 				for (i in kmsADA.guide[y].imageFile) {
 					var img = kmsADA.guide[y].imageFile[i];
@@ -204,6 +216,18 @@ function loadFAQ()
 			var answerText = jQuery('<p/>', {"html": contentA});
 			
 			answerText.appendTo(answer);
+
+			// Add source link to FAQ content
+			var source =  kmsADA.FAQ[y].guideSource;
+			if (source) {
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
+			};
+
+			if (contentSource) {
+				contentSource.appendTo(entry);
+			};
+			// End add source
 			
 			if (kmsADA.FAQ[y].imageFile) {
 				for (i in kmsADA.FAQ[y].imageFile) {

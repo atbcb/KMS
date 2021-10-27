@@ -565,6 +565,13 @@ img.picture {
 
 
 
+.sourceLink {
+	color: #1d4579;
+}
+.source {
+	text-align: right;
+}
+
 
 
 /*file icons*/
