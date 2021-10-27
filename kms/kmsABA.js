@@ -7,7 +7,7 @@ var kmsABA=
          "status": "pending",
          "law": "ABA",
          "section": [
-            "F101_1"
+            "f101_1"
          ],
          "content": "This is a test.",
          "imageFile": [],
