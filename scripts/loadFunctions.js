@@ -100,25 +100,27 @@ function loadGuide()
 			
 				
 			var guideID = kmsADA.guide[y].id;
+			console.log(guideID);
 			var content = kmsADA.guide[y].content;
 			
 			var entry = jQuery('<div/>', {"id": "guide-" + guideID, "class": "entry"});
 			
-			var contentText = jQuery('<p/>', {"html": content});
+			var contentText = jQuery('<p/>', {"html": content, "id":"content-" + guideID});
 			
-			contentText.appendTo(entry);
-
 			// Add source link to guide content
 			var source =  kmsADA.guide[y].guideSource;
 			if (source) {
-				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
-				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink", "target": "_blank"});
+				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source", "id":"contentSource-" + guideID});
 			};
 
 			if (contentSource) {
-				contentSource.appendTo(entry);
+				contentSource.appendTo(contentText);
 			};
 			// End add source
+			contentText.appendTo(entry);
+
+
 
 			if (kmsADA.guide[y].imageFile) {
 				for (i in kmsADA.guide[y].imageFile) {
@@ -220,7 +222,7 @@ function loadFAQ()
 			// Add source link to FAQ answer
 			var source =  kmsADA.FAQ[y].guideSource;
 			if (source) {
-				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink", "target": "_blank"});
 				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
 			};
 

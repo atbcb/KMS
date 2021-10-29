@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KMS</title>
+	
+	<!-- META -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<meta property="dc:language" content="en" lang="">
+  
+	<!-- JQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+
+<!-- CSS -->	
+	<!-- Add Font Awesome icon library -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!-- Add Google Font library -->
+	<link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+ 
+	<!-- USWDS CSS JS -->
+	<link rel="stylesheet" type="text/css" href="css/uswds.css">
+	<script src="scripts/uswds.js"></script>
+	
+	<!-- My CSS -->
+	<link rel="stylesheet" type="text/css" href="css/styles20.css">
+				
+
+
+				
+	<!-- load KMS -->
+	<!-- <script src="kms/kmsADAtest20.js"></script> -->
+	<script src="kms/blank-kms.js"></script>
+	<script src="kms/navBox.js"></script>
+
+	<!-- My JavaScript -->
+	<script src="scripts/loadFunctions.js"></script>
+	<script src="scripts/myScript.js"></script>
+	<script src="scripts/permaLink.js"></script>
+	
+
+
+</head>
+
+<body>
+	<div id="left-container">
+		<div id="top-left-container">
+			<div class="top-content">
+			<h1>Knowledge<br>Management<br>System</h1>
+			</div>		
+		</div>
+		<div id="left-main">
+			<nav id="smallNavBar">
+
+					<a href="#" class="active" aria-selected="true">ADA</a>
+					<a href="" class="inactive">ABA</a>
+					<a href="https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines" class="inactive" target="_blank">PROWAG</a>
+					<a href="" class="inactive">PVAG</a>
+					<a href="https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/final-standards/text-of-the-proposed-standards-8" class="inactive" target="_blank">MDE</a>
+					<a href="https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas" class="inactive" target="_blank">UFAS</a>
+					<a href="../508%20KMS/508knowledgecrypt.html" class="inactive">508</a>
+
+			</nav>
+			<div id="left-content-nav" class="content-container">
+
+				<nav class="navContainer">							
+					<div class="expandingSectionsContainer">
+						<h2 class="trigger navTitle"><span class="textIndicator"> + </span><span class="accesskey">F</span>ilters</h2>
+						<div id="" class="content hidden">
+						<!-- 	<button id="btn0" onClick="loadADAKMS();this.style.visibility= 'hidden'">Load KMS</button>
+							<br>
+							<button id="btn1" onClick="loadGuide();this.style.visibility= 'hidden'">Load Guides</button>
+							<br>
+							<button id="btn2" onClick="loadFAQ();this.style.visibility= 'hidden'">Load faqs</button>
+							<br>
+							<button id="btn2" onClick="loadClarification();this.style.visibility= 'hidden'">Load Clarifications</button>
+							<br> -->
+							
+							
+							<input type="checkbox" id="allStandards" class="masterCheck" checked="checked"><label class="filterLabels" for="allStandards">Standards</label><button id="btn10" class="textIndicator right trigger"> + </button>
+								<div class="content hidden subFilter">
+									<input type="checkbox" id="subHeadings" class="subHeadingsFilter subCheck" checked="checked"><label class="filterLabels" for="subHeadings">Sub Headings</label>
+									<br>
+									<input type="checkbox" id="standards" class="checkboxFilter subCheck" checked="checked"><label class="filterLabels" for="standards">Text of the Standards</label>
+									<br>
+									<input type="checkbox" id="advisory" class="checkboxFilter subCheck" checked="checked"><label class="filterLabels" for="advisory">Advisory</label>
+									<br>								
+								</div>
+							<br>
+							<input type="checkbox" id="kms" class="checkboxFilter" checked="checked"><label class="filterLabels" for="kms">KMS</label>
+								<div class="content subFilter">
+									<input type="checkbox" id="guide" class="checkboxFilter" checked="checked"><label class="filterLabels" for="guide">Guides Box</label>
+									<br>
+									<input type="checkbox" id="faq" class="checkboxFilter" checked="checked"><label class="filterLabels" for="faq">FAQs Box</label>
+									<br>
+									<div class="content subFilter">
+										<input type="checkbox" id="faqA" class="checkboxFilter"><label class="filterLabels" for="faqA">FAQs All Answers</label>
+									</div>									
+									<input type="checkbox" id="clarification" class="checkboxFilter"checked="checked"><label class="filterLabels" for="clarification">Clarifications</label>
+									<br>
+									<input type="checkbox" id="futureRulemaking" class="checkboxFilter"><label class="filterLabels" for="futureRulemaking">Future Rulemaking</label>
+									<br>
+									<input type="checkbox" id="navBox" class="checkboxFilter" checked="checked"><label class="filterLabels" for="navBox">Scoping Sections Box</label>
+									<br>
+									<input type="checkbox" id="mapBox" class="checkboxFilter" checked="checked"><label class="filterLabels" for="mapBox">Mapping Box</label>
+									<br>
+									<input type="checkbox" id="permaLink" class="checkboxFilter" checked="checked"><label class="filterLabels" for="permaLink">Copy and Link Buttons</label>
+									<br>
+								</div>
+														
+							
+							
+						</div> <!-- close filters content box -->
+					</div>	<!-- close expanding section container -->
+				</nav> <!-- close filters navigation -->
+				
+				<nav class="navContainer">	<!-- table of contents -->						
+					<div class="expandingSectionsContainer">
+						<h2 class="trigger navTitle"><span class="textIndicator"> + </span>2010 ADA</h2>
+						<!-- <h2 class="trigger navTitle">2010 ADA<span class="textIndicator right"> + </span></h2> example of plus indicator on right side -->
+						<div id="toc" class="content hidden subContent">
+
+
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 1: Application and Administration</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-101">101 Purpose</a></li>
+										<li><a href="#ada-102">102 Dimensions for Adults and Children</a></li>
+										<li><a href="#ada-103">103 Equivalent Facilitation</a></li>
+										<li><a href="#ada-104">104 Conventions</a></li>
+										<li><a href="#ada-105">105 Referenced Standards</a></li>
+										<li><a href="#ada-106">106 Definitions</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 2: Scoping Requirements</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-201">201 Application</a></li>
+										<li><a href="#ada-202">202 Existing Buildings and Facilities</a></li>
+										<li><a href="#ada-203">203 General Exceptions</a></li>
+										<li><a href="#ada-204">204 Protruding Objects</a></li>
+										<li><a href="#ada-205">205 Operable Parts</a></li>
+										<li><a href="#ada-206">206 Accessible Routes</a></li>
+										<li><a href="#ada-207">207 Accessible Means of Egress</a></li>
+										<li><a href="#ada-208">208 Parking Spaces</a></li>
+										<li><a href="#ada-209">209 Passenger Loading Zones and Bus Stops</a></li>
+										<li><a href="#ada-210">210 Stairways</a></li>
+										<li><a href="#ada-211">211 Drinking Fountains</a></li>
+										<li><a href="#ada-212">212 Kitchens, Kitchenettes, and Sinks</a></li>
+										<li><a href="#ada-213">213 Toilet Facilities and Bathing Facilities</a></li>
+										<li><a href="#ada-214">214 Washing Machines and Clothes Dryers</a></li>
+										<li><a href="#ada-215">215 Fire Alarm Systems</a></li>
+										<li><a href="#ada-216">216 Signs</a></li>
+										<li><a href="#ada-217">217 Telephones</a></li>
+										<li><a href="#ada-218">218 Transportation Facilities</a></li>
+										<li><a href="#ada-219">219 Assistive Listening Systems</a></li>
+										<li><a href="#ada-220">220 Automatic Teller Machines and Fare Machines</a></li>
+										<li><a href="#ada-221">221 Assembly Areas</a></li>
+										<li><a href="#ada-222">222 Dressing, Fitting, and Locker Rooms</a></li>
+										<li><a href="#ada-223">223 Medical Care and Long-Term Care Facilities</a></li>
+										<li><a href="#ada-224">224 Transient Lodging Guest Rooms</a></li>
+										<li><a href="#ada-225">225 Storage</a></li>
+										<li><a href="#ada-226">226 Dining Surfaces and Work Surfaces</a></li>
+										<li><a href="#ada-227">227 Sales and Service</a></li>
+										<li><a href="#ada-228">228 Depositories, Vending Machines, Change Machines, Mail Boxes, and Fuel Dispensers</a></li>
+										<li><a href="#ada-229">229 Windows</a></li>
+										<li><a href="#ada-230">230 Two-Way Communication Systems</a></li>
+										<li><a href="#ada-231">231 Judicial Facilities</a></li>
+										<li><a href="#ada-232">232 Detention Facilities and Correctional Facilities</a></li>
+										<li><a href="#ada-233">233 Residential Facilities</a></li>
+										<li><a href="#ada-234">234 Amusement Rides</a></li>
+										<li><a href="#ada-235">235 Recreational Boating Facilities</a></li>
+										<li><a href="#ada-236">236 Exercise Machines and Equipment</a></li>
+										<li><a href="#ada-237">237 Fishing Piers and Platforms</a></li>
+										<li><a href="#ada-238">238 Golf Facilities</a></li>
+										<li><a href="#ada-239">239 Miniature Golf Facilities</a></li>
+										<li><a href="#ada-240">240 Play Areas</a></li>
+										<li><a href="#ada-241">241 Saunas and Steam Rooms</a></li>
+										<li><a href="#ada-242">242 Swimming Pools, Wading Pools, and Spas</a></li>
+										<li><a href="#ada-243">243 Shooting Facilities with Firing Positions</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 3: Building Blocks</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-301">301 General</a></li>
+										<li><a href="#ada-302">302 Floor or Ground Surfaces</a></li>
+										<li><a href="#ada-303">303 Changes in Level</a></li>
+										<li><a href="#ada-304">304 Turning Space</a></li>
+										<li><a href="#ada-305">305 Clear Floor or Ground Space</a></li>
+										<li><a href="#ada-306">306 Knee and Toe Clearance</a></li>
+										<li><a href="#ada-307">307 Protruding Objects</a></li>
+										<li><a href="#ada-308">308 Reach Ranges</a></li>
+										<li><a href="#ada-309">309 Operable Parts</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 4: Accessible Routes</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-401">401 General</a></li>
+										<li><a href="#ada-402">402 Accessible Routes</a></li>
+										<li><a href="#ada-403">403 Walking Surfaces</a></li>
+										<li><a href="#ada-404">404 Doors, Doorways, and Gates</a></li>
+										<li><a href="#ada-405">405 Ramps</a></li>
+										<li><a href="#ada-406">406 Curb Ramps</a></li>
+										<li><a href="#ada-407">407 Elevators</a></li>
+										<li><a href="#ada-408">408 Limited-Use / Limited-Application Elevators</a></li>
+										<li><a href="#ada-409">409 Private Residence Elevators</a></li>
+										<li><a href="#ada-410">410 Platform Lifts</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 5: General Site and Building Elements</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-501">501 General</a></li>
+										<li><a href="#ada-502">502 Parking Spaces</a></li>
+										<li><a href="#ada-503">503 Passenger Loading Zones</a></li>
+										<li><a href="#ada-504">504 Stairways</a></li>
+										<li><a href="#ada-505">505 Handrails</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 6: Plumbing Elements and Facilities</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-601">601 General</a></li>
+										<li><a href="#ada-602">602 Drinking Fountains</a></li>
+										<li><a href="#ada-603">603 Toilet and Bathing Rooms</a></li>
+										<li><a href="#ada-604">604 Water Closets and Toilet Compartments</a></li>
+										<li><a href="#ada-605">605 Urinals</a></li>
+										<li><a href="#ada-606">606 Lavatories and Sinks</a></li>
+										<li><a href="#ada-607">607 Bathtubs</a></li>
+										<li><a href="#ada-608">608 Shower Compartments</a></li>
+										<li><a href="#ada-609">609 Grab Bars</a></li>
+										<li><a href="#ada-610">610 Seats</a></li>
+										<li><a href="#ada-611">611 Washing Machines and Clothes Dryers</a></li>
+										<li><a href="#ada-612">612 Saunas and Steam Rooms</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 7: Communication Elements & Features</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-701">701 General</a></li>
+										<li><a href="#ada-702">702 Fire Alarm Systems</a></li>
+										<li><a href="#ada-703">703 Signs</a></li>
+										<li><a href="#ada-704">704 Telephones</a></li>
+										<li><a href="#ada-705">705 Detectable Warnings</a></li>
+										<li><a href="#ada-706">706 Assistive Listening Systems</a></li>
+										<li><a href="#ada-707">707 Automatic Teller Machines and Fare Machines</a></li>
+										<li><a href="#ada-708">708 Two-Way Communication Systems</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 8: Special Rooms, Spaces, & Elements</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-801">801 General</a></li>
+										<li><a href="#ada-802">802 Wheelchair Spaces, Companion Seats, and Designated Aisle Seats</a></li>
+										<li><a href="#ada-803">803 Dressing, Fitting, and Locker Rooms</a></li>
+										<li><a href="#ada-804">804 Kitchens and Kitchenettes</a></li>
+										<li><a href="#ada-805">805 Medical Care and Long-Term Care Facilities</a></li>
+										<li><a href="#ada-806">806 Transient Lodging Guest Rooms</a></li>
+										<li><a href="#ada-807">807 Holding Cells and Housing Cells</a></li>
+										<li><a href="#ada-808">808 Courtrooms</a></li>
+										<li><a href="#ada-809">809 Residential Dwelling Units</a></li>
+										<li><a href="#ada-810">810 Transportation Facilities</a></li>
+										<li><a href="#ada-811">811 Storage</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 9: Built-In Elements</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-901">901 General</a></li>
+										<li><a href="#ada-902">902 Dining Surfaces and Work Surfaces</a></li>
+										<li><a href="#ada-903">903 Benches</a></li>
+										<li><a href="#ada-904">904 Check-Out Aisles and Sales and Service Counters</a></li>
+									</ul>
+								</div>
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Ch 10: Recreation Facilities</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="#ada-1001">1001 General</a></li>
+										<li><a href="#ada-1002">1002 Amusement Rides</a></li>
+										<li><a href="#ada-1003">1003 Recreational Boating Facilities</a></li>
+										<li><a href="#ada-1004">1004 Exercise Machines and Equipment</a></li>
+										<li><a href="#ada-1005">1005 Fishing Piers and Platforms</a></li>
+										<li><a href="#ada-1006">1006 Golf Facilities</a></li>
+										<li><a href="#ada-1007">1007 Miniature Golf Facilities</a></li>
+										<li><a href="#ada-1008">1008 Play Areas</a></li>
+										<li><a href="#ada-1009">1009 Swimming Pools, Wading Pools, and Spas</a></li>
+										<li><a href="#ada-1010">1010 Shooting Facilities with Firing Positions</a></li>
+									</ul>
+								</div>
+
+
+
+							<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Guides</h2>
+								<div class="content hidden navSections">
+									<ul>
+										<li><a href="https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards" target="_blank">ADA Ch 1 - 6</a>
+										</li>
+										<li><a href="https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access" target="_blank">Courthouse</a>
+										</li>
+										<li><a href="https://www.access-board.gov/guidelines-and-standards/recreation-facilities/guides" target="_blank">Recreation</a>
+										</li>
+									</ul>
+								</div>
+
+
+						</div> <!-- close toc content box -->
+					</div>	<!-- close expanding section container -->
+				</nav> <!-- close toc navigation -->
+
+				<nav class="navContainer">	<!-- other resources -->
+					<div class="expandingSectionsContainer">
+						<h2 class="trigger navTitle"><span class="textIndicator"> + </span>Other resources</h2>
+						<div id="toc" class="content hidden navSections">
+							<h2 class="trigger navTitle"><a href="#ada-referencedStandards"><span class="textIndicator"> + </span>Referenced Standards</a></h2>
+							<div class="content hidden navSections"> 
+								<ul>
+									
+									<li><a href="https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/background/adaag" target="_blank">1991 ADA</a></li>
+									<li><a href="https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas?highlight=WyJ1ZmFzIl0=" target="_blank">UFAS</a></li>
+								</ul>
+							</div>
+							<h2 class="trigger navTitle"><a href="#ada-contacts"><span class="textIndicator"> + </span>Contacts & Resources</a></h2>
+							<div class="content hidden navSections"> 
+								<ul id="">
+									<li><a href="https://adata.org/find-your-region" target="_blank">ADA National network</a></li>
+									<li><a href="https://www.fairhousingfirst.org/" target="_blank">Fair Housing Accessibility First</a></li>
+									<li><a href="https://www.hud.gov/program_offices/field_policy_mgt/localoffices" target="_blank">HUD local offices</a></li>
+								</ul>
+							</div>
+						</div> <!-- close toc content box -->
+					</div>	<!-- close expanding section container -->
+						<h2 class="navTitle"><span class="textIndicator"> &nbsp </span><a href="#ta-schedule">TA Schedule</a></h2>
+				</nav> <!-- close other resources navigation -->
+
+			</div> <!-- close content container -->
+		</div> <!-- close left-main -->
+	</div> <!-- close left-container -->
+	
+	
+	
+	
+	<div id="right-container">
+		<div id="top-right-container">
+			<div class="top-content">
+				<a href="https://www.access-board.gov/" style="text-decoration: none; color: inherit">
+				<img class="img-valign" src="images/logo.png" alt="United States Access Board logo"/>
+				<span class="headerText">United States Access Board</span>
+					<!-- <img class="left" src="images/logo.png" alt="United States Access Board logo" style="vertical-align: middle, margin-bottom: 0.75em"><span>United States Access Board
+					<span class="subtitle">Advancing Full Access and Inclusion for All</span></span> -->
+				</a>
+			</div> <!-- close top content container -->
+		</div> <!-- close top right container -->
+		<div id="right-main">
+
+
+<main class="content-container" > 
+
+				<h1 class="mainTitle">SAMPLE</h1>
+
+
+
+
+<!-- FROM STANDARDS ONLY FILE -->
+
+
+				<div id="mainContent" class="contentPage standardsFull">
+					<div id="adaCh1">
+						<h1 id="a1">Chapter 1: Application and Administration</h1>
+							<h2 id="ada-101">101 Purpose</h2>
+							<h3 id="ada-101_1">101.1 General</h3>
+							<p class="standards">Sample text of standards.</p>
+							<p class="advisory">Advisory 101.1 General.&nbsp; sample text of advisory</p>
+							
+							<h3 id="ada-101_2">101.2 Effect on Removal of Barriers in Existing Facilities</h3>
+							<p class="standards">Sample text of standards</p>
+														
+							<h2 id="ada-102">102 Dimensions for Adults and Children</h2>
+							<p class="standards">The technical requirements are based on adult dimensions and anthropometrics.&nbsp; In addition, this document includes technical requirements based on children’s dimensions and anthropometrics for drinking fountains, water closets, toilet compartments, lavatories and sinks, dining surfaces, and work surfaces.</p>
+							<h2 id="ada-103">103 Equivalent Facilitation</h2>
+							<p class="standards">Nothing in these requirements prevents the use of designs, products, or technologies as alternatives to those prescribed, provided they result in substantially equivalent or greater accessibility and usability.</p>
+							<p class="advisory">Advisory 103 Equivalent Facilitation.&nbsp; The responsibility for demonstrating equivalent facilitation in the event of a challenge rests with the covered entity.&nbsp; With the exception of transit facilities, which are covered by regulations issued by the Department of Transportation, there is no process for certifying that an alternative design provides equivalent facilitation.</p>
+							<h2 id="ada-104">104 Conventions</h2>
+							<h3 id="ada-104_1">104.1 Dimensions</h3>
+							<p class="standards">Dimensions that are not stated as “maximum” or “minimum” are absolute.</p>
+							
+							<h4 id="ada-104_1_1">104.1.1 Construction and Manufacturing Tolerances</h4>
+							<p class="standards"> All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.</p>
+							<div id="ada-104_1_1_advisory" class="advisory">
+							<p class="first">Advisory 104.1.1 Construction and Manufacturing Tolerances.&nbsp; Conventional industry tolerances recognized by this provision include those for field conditions and those that may be a necessary consequence of a particular manufacturing process. Recognized tolerances are not intended to apply to design work.</p>
+							<p>It is good practice when specifying dimensions to avoid specifying a tolerance where dimensions are absolute.&nbsp; For example, if this document requires “1 inches,” avoid specifying “1 inches plus or minus X inches.”</p>
+							<p>Where the requirement states a specified range, such as in Section <a href="#ada-609_4" class="navSectionLink">609.4</a> where grab bars must be installed between 33 inches and 36 inches above the floor, the range provides an adequate tolerance and therefore no tolerance outside of the range at either end point is permitted.</p>
+							<p>Where a requirement is a minimum or a maximum dimension that does not have two specific minimum and maximum end points, tolerances may apply.&nbsp; Where an element is to be installed at the minimum or maximum permitted dimension, such as “15 inches minimum” or “5 pounds maximum”, it would not be good practice to specify “5 pounds (plus X pounds) or 15 inches (minus X inches).”&nbsp; Rather, it would be good practice to specify a dimension less than the required maximum (or more than the required minimum) by the amount of the expected field or manufacturing tolerance and not to state any tolerance in conjunction with the specified dimension.</p>
+							<p class="last">Specifying dimensions in design in the manner described above will better ensure that facilities and elements accomplish the level of accessibility intended by these requirements.&nbsp; It will also more often produce an end result of strict and literal compliance with the stated requirements and eliminate enforcement difficulties and issues that might otherwise arise.&nbsp; Information on specific tolerances may be available from industry or trade organizations, code groups and building officials, and published references.</p>
+							</div>
+							
+							<h3 id="ada-104_2">104.2 Calculation of Percentages</h3>
+							<p class="standards">Where the required number of elements or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such elements or facilities shall be provided.&nbsp; Where the determination of the required size or dimension of an element or facility involves ratios or percentages, rounding down for values less than one half shall be permitted.</p>
+
+							<h1></h1> <!--empty last heading for kms load function to work-->
+					  </div>   <!--close #adaCh1-->
+					  
+					  
+					</div> <!--close .standards-->
+	
+
+<!-- END FROM STANDARDS ONLY FILE -->	
+
+				
+
+				<!-- insert before /main -->
+				
+			</main>			
+			
+			
+		</div> <!-- close right-main -->
+	</div> <!-- close right-container -->
+</body>
+
+
+	<script>
+	$(loadADAKMS());
+	$(loadMapBox());
+	$(loadNavBox());
+	$(loadLink());
+	$(loadGuide());
+	$(loadFAQ());
+	$(loadClarification());
+
+	
+	</script>
