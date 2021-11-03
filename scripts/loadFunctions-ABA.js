@@ -111,7 +111,7 @@ function loadGuide()
 			// Add source link to guide content
 			var source =  kmsABA.guide[y].guideSource;
 			if (source) {
-				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink", "target": "_blank"});
 				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
 				contentSource.appendTo(entry);
 			};
@@ -217,11 +217,8 @@ function loadFAQ()
 			// Add source link to FAQ content
 			var source =  kmsABA.FAQ[y].guideSource;
 			if (source) {
-				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink", "target": "_blank"});
 				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
-			};
-
-			if (contentSource) {
 				contentSource.appendTo(answer);
 			};
 			// End add source
