@@ -106,20 +106,16 @@ function loadGuide()
 			var entry = jQuery('<div/>', {"id": "guide-" + guideID, "class": "entry"});
 			
 			var contentText = jQuery('<p/>', {"html": content, "id":"content-" + guideID});
-			
+			contentText.appendTo(entry);
+
 			// Add source link to guide content
 			var source =  kmsADA.guide[y].guideSource;
 			if (source) {
-				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink", "target": "_blank"});
-				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source", "id":"contentSource-" + guideID});
-			};
-
-			if (contentSource) {
-				contentSource.appendTo(contentText);
+				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
+				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
+				contentSource.appendTo(entry);
 			};
 			// End add source
-			contentText.appendTo(entry);
-
 
 
 			if (kmsADA.guide[y].imageFile) {

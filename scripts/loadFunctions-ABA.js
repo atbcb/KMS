@@ -113,9 +113,6 @@ function loadGuide()
 			if (source) {
 				var contentLink = jQuery('<a/>', {"href": source, "text": "Source", "class": "sourceLink"});
 				var contentSource = jQuery('<p/>', {"html": contentLink, "class": "source"});
-			};
-
-			if (contentSource) {
 				contentSource.appendTo(entry);
 			};
 			// End add source
