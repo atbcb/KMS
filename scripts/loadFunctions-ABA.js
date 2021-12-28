@@ -14,6 +14,9 @@ function loadABAKMS()
 	
 	prefix = "aba-";
 	secnum = idtag.replace(prefix,'');
+	if (secnum.startsWith("2")) {
+		var secnum = secnum.replace("2", 'f2');
+	};
 	// console.log(secnum);
 
 	var a = {
@@ -73,7 +76,12 @@ function loadGuide()
 		var j;
 		for (j in kmsABA.guide[y].section) {
 			//check for KMS div box, alert if missing
-			var kmsNum = "kms-" + kmsABA.guide[y].section[j];
+			var Num = kmsABA.guide[y].section[j];
+			if (Num.startsWith("2")) {
+				var Num = Num.replace("2", 'f2');
+				console.log(Num);
+			};
+			var kmsNum = "kms-" + Num;
 			//console.log(kmsNum);
 			if (document.getElementById(kmsNum) == null) {
 				//alert("Error loading. Section " + kmsNum + " not found."); 
@@ -100,6 +108,10 @@ function loadGuide()
 			
 				
 			var guideID = kmsABA.guide[y].id;
+			// if (guideID.startsWith("2")) {
+				// var guideID = guideID.replace("2", 'f2');
+				// console.log(guideID);
+			// };
 			var content = kmsABA.guide[y].content;
 			
 			var entry = jQuery('<div/>', {"id": "guide-" + guideID, "class": "entry"});
@@ -166,7 +178,12 @@ function loadFAQ()
 		var j;
 		for (j in kmsABA.FAQ[y].section) {
 			//check for KMS div box, alert if missing
-			var kmsNum = "kms-" + kmsABA.FAQ[y].section[j];
+			var Num = kmsABA.FAQ[y].section[j];
+			if (Num.startsWith("2")) {
+				var Num = Num.replace("2", 'f2');
+				console.log(Num);
+			};
+			var kmsNum = "kms-" + Num;
 			//console.log(kmsNum);
 			if (document.getElementById(kmsNum) == null) {
 				//alert("Error loading. Section " + kmsNum + " not found."); 
@@ -382,5 +399,4 @@ function loadClarification()
 
 
   
-
 
